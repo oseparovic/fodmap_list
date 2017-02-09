@@ -267,24 +267,52 @@
                  ]
     },
     "Nuts and Seeds": {
-        "LOW":[
-               {"name":"Almonds (max of 15)"},
-               {"name":"Chestnuts"},
-               {"name":"Chia seeds"},
-               {"name":"Hazelnuts"},
-               {"name":"Macademia nuts"},
-               {"name":"Peanuts"},
-               {"name":"Pecans (max of 15)"},
-               {"name":"Poppy seeds"},
-               {"name":"Pumpkin seeds"},
-               {"name":"Sesame seeds"},
-               {"name":"Sunflower seeds"},
-               {"name":"Walnuts"}
-               ],
-        "HIGH":[
-                {"name":"Cashews"},
-                {"name":"Pistachio"}
-                ]
+        "LOW": [
+                {
+                "name": "Almonds (max of 15)"
+                },
+                {
+                "name": "Chestnuts"
+                },
+                {
+                "name": "Chia seeds"
+                },
+                {
+                "name": "Hazelnuts"
+                },
+                {
+                "name": "Macademia nuts"
+                },
+                {
+                "name": "Peanuts"
+                },
+                {
+                "name": "Pecans (max of 15)"
+                },
+                {
+                "name": "Poppy seeds"
+                },
+                {
+                "name": "Pumpkin seeds"
+                },
+                {
+                "name": "Sesame seeds"
+                },
+                {
+                "name": "Sunflower seeds"
+                },
+                {
+                "name": "Walnuts"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Cashews"
+                 },
+                 {
+                 "name": "Pistachio"
+                 }
+                 ]
     },
     "Meat & Substitutes": {
         "LOW": [
@@ -358,98 +386,229 @@
                  }
                  ]
     },
-	"Dairy":{
-		"LOW":[
-			{"name":"Butter"},
-			{"name":"Dark chocolate"},
-			{"name":"Milk chocolate (3 squares max)"},
-			{"name":"White chocolate (3 squares max)"}
-		],
-		"HIGH":[
-			{"name":"Buttermilk"},
-			{"name":"Cream"},
-			{"name":"Custard"},
-			{"name":"Greek yoghurt"},
-			{"name":"Ice cream"},
-			{"name":"Sour cream"}
-		]
-	},
-"Cheese":{
-    "LOW":[
-           {"name":"Brie"},
-           {"name":"Camembert"},
-           {"name":"Cheddar"},
-           {"name":"Cottage cheese"},
-           {"name":"Feta"},
-           {"name":"Mozzarella"},
-           {"name":"Parmesan"},
-           {"name":"Swiss"}
-           ],
-    "HIGH":[
-            {"name":"Cream cheese"},
-            {"name":"Ricotta cheese"}
-            ]
-},
-"Sweeteners":{
-    "LOW":[
-           {"name":"Aspartame"},
-           {"name":"Acesulfame K"},
-           {"name":"Glucose"},
-           {"name":"Saccharine"},
-           {"name":"Stevia"},
-           {"name":"Sucralose"},
-           {"name":"Sugar/sucrose"}
-           ],
-    "HIGH":[
-            {"name":"Agave"},
-            {"name":"High Fructose Corn Syrup(HFCS)"},
-            {"name":"Honey"},
-            {"name":"Inulin"},
-            {"name":"Isomalt"},
-            {"name":"Maltitol"},
-            {"name":"Mannitol"},
-            {"name":"Sorbitol"},
-            {"name":"Xylitol"}            ]
-},
-	"Condiments":{
-		"LOW":[
-			{"name":"Barbeque sauce"},
-			{"name":"Chutney (1 tbsp max)"},
-			{"name":"Garlic infused oil"},
-			{"name":"Golden syrup"},
-			{"name":"Strawberry jam / jelly"},
-			{"name":"Mayonnaise"},
-			{"name":"Mustard"},
-			{"name":"Soy sauce"},
-			{"name":"Tomato sauce"}
-		],
-		"HIGH":[
-			{"name":"Hommus dip"},
-			{"name":"Jam (mixed berries)"},
-			{"name":"Pasta sauce (cream based)"},
-			{"name":"Relish"},
-			{"name":"Tzatziki dip"}
-		]
-	},
-	"Drinks":{
-		"LOW":[
-			{"name":"Beer (one max)"},
-			{"name":"Coffee, black"},
-			{"name":"Drinking chocolate powder"},
-			{"name":"Herbal tea (weak)"},
-			{"name":"Orange juice (125ml max)"},
-			{"name":"Peppermint tea"},
-			{"name":"Water"},
-			{"name":"Wine (one max)"}
-		],
-		"HIGH":[
-			{"name":"Coconut water"},
-			{"name":"Apple juice"},
-			{"name":"Pear juice"},
-			{"name":"Mango juice"},
-			{"name":"Sodas with HFCS"},
-			{"name":"Fennel tea"},
-			{"name":"Herbal tea (strong)"}
-		]
-	}
+    "Dairy": {
+        "LOW": [
+                {
+                "name": "Butter"
+                },
+                {
+                "name": "Dark chocolate"
+                },
+                {
+                "name": "Milk chocolate (3 squares max)"
+                },
+                {
+                "name": "White chocolate (3 squares max)"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Buttermilk"
+                 },
+                 {
+                 "name": "Cream"
+                 },
+                 {
+                 "name": "Custard"
+                 },
+                 {
+                 "name": "Greek yoghurt"
+                 },
+                 {
+                 "name": "Ice cream"
+                 },
+                 {
+                 "name": "Sour cream"
+                 }
+                 ]
+    },
+    "Cheese": {
+        "LOW": [
+                {
+                "name": "Brie"
+                },
+                {
+                "name": "Camembert"
+                },
+                {
+                "name": "Cheddar"
+                },
+                {
+                "name": "Cottage cheese"
+                },
+                {
+                "name": "Feta"
+                },
+                {
+                "name": "Mozzarella"
+                },
+                {
+                "name": "Parmesan"
+                },
+                {
+                "name": "Swiss"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Cream cheese"
+                 },
+                 {
+                 "name": "Ricotta cheese"
+                 }
+                 ]
+    },
+    "Sweeteners": {
+        "LOW": [
+                {
+                "name": "Aspartame"
+                },
+                {
+                "name": "Acesulfame K"
+                },
+                {
+                "name": "Glucose"
+                },
+                {
+                "name": "Saccharine"
+                },
+                {
+                "name": "Stevia"
+                },
+                {
+                "name": "Sucralose"
+                },
+                {
+                "name": "Sugar/sucrose"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Agave"
+                 },
+                 {
+                 "name": "High Fructose Corn Syrup(HFCS)"
+                 },
+                 {
+                 "name": "Honey"
+                 },
+                 {
+                 "name": "Inulin"
+                 },
+                 {
+                 "name": "Isomalt"
+                 },
+                 {
+                 "name": "Maltitol"
+                 },
+                 {
+                 "name": "Mannitol"
+                 },
+                 {
+                 "name": "Sorbitol"
+                 },
+                 {
+                 "name": "Xylitol"
+                 }
+                 ]
+    },
+    "Condiments": {
+        "LOW": [
+                {
+                "name": "Barbeque sauce"
+                },
+                {
+                "name": "Chutney (1 tbsp max)"
+                },
+                {
+                "name": "Garlic infused oil"
+                },
+                {
+                "name": "Golden syrup"
+                },
+                {
+                "name": "Strawberry jam / jelly"
+                },
+                {
+                "name": "Mayonnaise"
+                },
+                {
+                "name": "Mustard"
+                },
+                {
+                "name": "Soy sauce"
+                },
+                {
+                "name": "Tomato sauce"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Hommus dip"
+                 },
+                 {
+                 "name": "Jam (mixed berries)"
+                 },
+                 {
+                 "name": "Pasta sauce (cream based)"
+                 },
+                 {
+                 "name": "Relish"
+                 },
+                 {
+                 "name": "Tzatziki dip"
+                 }
+                 ]
+    },
+    "Drinks": {
+        "LOW": [
+                {
+                "name": "Beer (one max)"
+                },
+                {
+                "name": "Coffee, black"
+                },
+                {
+                "name": "Drinking chocolate powder"
+                },
+                {
+                "name": "Herbal tea (weak)"
+                },
+                {
+                "name": "Orange juice (125ml max)"
+                },
+                {
+                "name": "Peppermint tea"
+                },
+                {
+                "name": "Water"
+                },
+                {
+                "name": "Wine (one max)"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Coconut water"
+                 },
+                 {
+                 "name": "Apple juice"
+                 },
+                 {
+                 "name": "Pear juice"
+                 },
+                 {
+                 "name": "Mango juice"
+                 },
+                 {
+                 "name": "Sodas with HFCS"
+                 },
+                 {
+                 "name": "Fennel tea"
+                 },
+                 {
+                 "name": "Herbal tea (strong)"
+                 }
+                 ]
+    }
 }
