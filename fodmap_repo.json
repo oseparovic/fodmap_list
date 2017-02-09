@@ -90,5 +90,20 @@
     ]},
   "HIGH":[
       {"name":"Apples"},{"name":"Apricot"},{"name":"Avocado"},{"name":"Blackberries"},{"name":"Grapefruit"},{"name":"Mango"},{"name":"Peaches"},{"name":"Pears"},{"name":"Plums"},{"name":"Raisins"},{"name":"Sultanas"},{"name":"Watermelon"},{"name":"Strawberry"}
+    ]},
+"Meat & Substitutes":
+{"LOW":[
+        {"name":"Beef"},
+        {"name":"Chicken"},
+        {"name":"Lamb"},
+        {"name":"Pork"},
+        {"name":"Quorn mince"},
+        {"name":"Cold cuts e.g. Ham and turkey breast"},
+    ],
+    "HIGH":[
+            {"name":"Chorizo"},
+            {"name":"Sausages"},
+            {"name":"Processed meat (check ingredients"}
     ]
+}
 }
