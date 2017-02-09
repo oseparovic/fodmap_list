@@ -1,17 +1,74 @@
 {
-"Vegetables and legumes": {
-"HIGH": [{
-"name": "Garlic"
-}],
-"LOW": [{
-"name": "Bamboo shoots"
-}, {
-"name": "Bean sprouts"
-}]
-},
-  "Fruit":
-    {"LOW":[
-      {"name":"Bananas"},
-{"name":"Blueberries"},{"name":"Cantaloupe"},{"name":"Cranberry"},{"name":"Clementine"},{"name":"Graps"},{"name":"Melons e.g. Honeydew, galia"},{"name":"Kiwifruit"},{"name":"Lemon"},{"name":"Orange"},{"name":"Pineapple"},{"name":"Raspberry"},{"name":"Rhubarb"},{"name":"Apples"},{"name":"Apricot"},{"name":"Avocado"},{"name":"Blackberries"},{"name":"Grapefruit"},{"name":"Mango"},{"name":"Peaches"},{"name":"Pears"},{"name":"Plums"},{"name":"Raisins"},{"name":"Sultanas"},{"name":"Watermelon"},{"name":"Strawberry"}]
-}
+	"Vegetables and legumes": {
+		"HIGH": [{
+			"name": "Garlic"
+		}, {
+			"name": "Onions"
+		}, {
+			"name": "Asparagus"
+		}, {
+			"name": "Beans"
+		}, {
+			"name": "Cauliflower"
+		}, {
+			"name": "Cabbage, Savoy"
+		}, {
+			"name": "Mange tout"
+		}, {
+			"name": "Mushrooms"
+		}, {
+			"name": "Peas"
+		}, {
+			"name": "Scallions/spring onions (white part)"
+		}],
+		"LOW": [{
+			"name": "Bamboo shoots"
+		}, {
+			"name": "Bean sprouts"
+		}, {
+			"name": "Broccoli"
+		}, {
+			"name": "Cabbage"
+		}, {
+			"name": "Carrots"
+		}, {
+			"name": "Celery"
+		}, {
+			"name": "Chick Peas"
+		}, {
+			"name": "Corn"
+		}, {
+			"name": "Courgette"
+		}, {
+			"name": "Cucumber"
+		}, {
+			"name": "Eggplant"
+		}, {
+			"name": "Green Beans"
+		}, {
+			"name": "Green Pepper"
+		}, {
+			"name": "Kale"
+		}, {
+			"name": "Lettuce"
+		}, {
+			"name": "Parsnip"
+		}, {
+			"name": "Potato"
+		}, {
+			"name": "Pumpkin"
+		}, {
+			"name": "Red Peppers"
+		}, {
+			"name": "Scallions/Spring Onions (green part)"
+		}, {
+			"name": "Squash"
+		}, {
+			"name": "Sweet Potato"
+		}, {
+			"name": "Tomatoes"
+		}, {
+			"name": "Turnip"
+		}]
+	}
 }
