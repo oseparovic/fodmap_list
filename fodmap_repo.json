@@ -334,5 +334,25 @@
 			{"name":"Ice cream"},
 			{"name":"Sour cream"}
 		]
+	},
+	"Condiments":{
+		"LOW":[
+			{"name:"Barbeque sauce"},
+			{"name":"Chutney (1 tbsp max)"},
+			{"name":"Garlic infused oil"},
+			{"name":"Golden syrup"},
+			{"name":"Strawberry jam / jelly"},
+			{"name":"Mayonnaise"},
+			{"name":"Mustard"},
+			{"name":"Soy sauce"},
+			{"name":"Tomato sauce"}
+		],
+		"HIGH":[
+			{"name":"Hommus dip"},
+			{"name":"Jam (mixed berries)"},
+			{"name":"Pasta sauce (cream based)"},
+			{"name":"Relish"},
+			{"name":"Tzatziki dip"}
+		]
 	}
 }
