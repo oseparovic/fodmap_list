@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "Vegetables and legumes": {
         "HIGH": [
                  {
@@ -265,6 +266,26 @@
                  "name": "Wheat foods e.g. Bread, cereal, pasta"
                  }
                  ]
+    },
+    "Nuts and Seeds": {
+        "LOW":[
+               {"name":"Almonds (max of 15)"},
+               {"name":"Chestnuts"},
+               {"name":"Chia seeds"},
+               {"name":"Hazelnuts"},
+               {"name":"Macademia nuts"},
+               {"name":"Peanuts"},
+               {"name":"Pecans (max of 15)"},
+               {"name":"Poppy seeds"},
+               {"name":"Pumpkin seeds"},
+               {"name":"Sesame seeds"},
+               {"name":"Sunflower seeds"},
+               {"name":"Walnuts"}
+               ],
+        "HIGH":[
+                {"name":"Cashews"},
+                {"name":"Pistachio"}
+                ]
     },
     "Meat & Substitutes": {
         "LOW": [
