@@ -318,7 +318,7 @@
                  "name": "Processed meat (check ingredients"
                  }
                  ]
-    }
+    },
     "Milk": {
         "LOW": [
                 {
@@ -358,4 +358,58 @@
                  }
                  ]
     }
+    },
+	"Dairy":{
+		"LOW":[
+			{"name":"Butter"},
+			{"name":"Dark chocolate"},
+			{"name":"Milk chocolate (3 squares max)"},
+			{"name":"White chocolate (3 squares max)"}
+		],
+		"HIGH":[
+			{"name":"Buttermilk"},
+			{"name":"Cream"},
+			{"name":"Custard"},
+			{"name":"Greek yoghurt"},
+			{"name":"Ice cream"},
+			{"name":"Sour cream"}
+		]
+	},
+"Cheese":{
+    "LOW":[
+           {"name":"Brie"},
+           {"name":"Camembert"},
+           {"name":"Cheddar"},
+           {"name":"Cottage cheese"},
+           {"name":"Feta"},
+           {"name":"Mozzarella"},
+           {"name":"Parmesan"},
+           {"name":"Swiss"}
+           ],
+    "HIGH":[
+            {"name":"Cream cheese"},
+            {"name":"Ricotta cheese"}
+            ]
+},
+"Sweeteners":{
+    "LOW":[
+           {"name":"Aspartame"},
+           {"name":"Acesulfame K"},
+           {"name":"Glucose"},
+           {"name":"Saccharine"},
+           {"name":"Stevia"},
+           {"name":"Sucralose"},
+           {"name":"Sugar/sucrose"}
+           ],
+    "HIGH":[
+            {"name":"Agave"},
+            {"name":"High Fructose Corn Syrup(HFCS)"},
+            {"name":"Honey"},
+            {"name":"Inulin"},
+            {"name":"Isomalt"},
+            {"name":"Maltitol"},
+            {"name":"Mannitol"},
+            {"name":"Sorbitol"},
+            {"name":"Xylitol"}            ]
+}
 }
