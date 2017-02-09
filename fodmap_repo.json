@@ -337,7 +337,7 @@
 	},
 	"Condiments":{
 		"LOW":[
-			{"name:"Barbeque sauce"},
+			{"name":"Barbeque sauce"},
 			{"name":"Chutney (1 tbsp max)"},
 			{"name":"Garlic infused oil"},
 			{"name":"Golden syrup"},
@@ -357,14 +357,14 @@
 	},
 	"Drinks":{
 		"LOW":[
-			{"name:"Beer (one max)"},
+			{"name":"Beer (one max)"},
 			{"name":"Coffee, black"},
 			{"name":"Drinking chocolate powder"},
 			{"name":"Herbal tea (weak)"},
 			{"name":"Orange juice (125ml max)"},
 			{"name":"Peppermint tea"},
 			{"name":"Water"},
-			{"name":"Wine (one max)"},
+			{"name":"Wine (one max)"}
 		],
 		"HIGH":[
 			{"name":"Coconut water"},
