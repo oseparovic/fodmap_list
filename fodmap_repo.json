@@ -319,6 +319,46 @@
                  }
                  ]
     },
+    "Milk": {
+        "LOW": [
+                {
+                "name": "Almond milk"
+                },
+                {
+                "name": "Coconut milk"
+                },
+                {
+                "name": "Hemp milk"
+                },
+                {
+                "name": "Lactose free milk"
+                },
+                {
+                "name": "Oat milk (30ml max)"
+                },
+                {
+                "name": "Soya milk made with soy protein"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Cow milk"
+                 },
+                 {
+                 "name": "Goat milk"
+                 },
+                 {
+                 "name": "Rice milk"
+                 },
+                 {
+                 "name": "Sheep's milk"
+                 },
+                 {
+                 "name": "Soy milk made with soy beans"
+                 }
+                 ]
+    }
+    },
 	"Dairy":{
 		"LOW":[
 			{"name":"Butter"},
@@ -335,6 +375,43 @@
 			{"name":"Sour cream"}
 		]
 	},
+"Cheese":{
+    "LOW":[
+           {"name":"Brie"},
+           {"name":"Camembert"},
+           {"name":"Cheddar"},
+           {"name":"Cottage cheese"},
+           {"name":"Feta"},
+           {"name":"Mozzarella"},
+           {"name":"Parmesan"},
+           {"name":"Swiss"}
+           ],
+    "HIGH":[
+            {"name":"Cream cheese"},
+            {"name":"Ricotta cheese"}
+            ]
+},
+"Sweeteners":{
+    "LOW":[
+           {"name":"Aspartame"},
+           {"name":"Acesulfame K"},
+           {"name":"Glucose"},
+           {"name":"Saccharine"},
+           {"name":"Stevia"},
+           {"name":"Sucralose"},
+           {"name":"Sugar/sucrose"}
+           ],
+    "HIGH":[
+            {"name":"Agave"},
+            {"name":"High Fructose Corn Syrup(HFCS)"},
+            {"name":"Honey"},
+            {"name":"Inulin"},
+            {"name":"Isomalt"},
+            {"name":"Maltitol"},
+            {"name":"Mannitol"},
+            {"name":"Sorbitol"},
+            {"name":"Xylitol"}            ]
+}
 	"Condiments":{
 		"LOW":[
 			{"name":"Barbeque sauce"},
