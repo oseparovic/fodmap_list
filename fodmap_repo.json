@@ -319,4 +319,43 @@
                  }
                  ]
     }
+    "Milk": {
+        "LOW": [
+                {
+                "name": "Almond milk"
+                },
+                {
+                "name": "Coconut milk"
+                },
+                {
+                "name": "Hemp milk"
+                },
+                {
+                "name": "Lactose free milk"
+                },
+                {
+                "name": "Oat milk (30ml max)"
+                },
+                {
+                "name": "Soya milk made with soy protein"
+                }
+                ],
+        "HIGH": [
+                 {
+                 "name": "Cow milk"
+                 },
+                 {
+                 "name": "Goat milk"
+                 },
+                 {
+                 "name": "Rice milk"
+                 },
+                 {
+                 "name": "Sheep's milk"
+                 },
+                 {
+                 "name": "Soy milk made with soy beans"
+                 }
+                 ]
+    }
 }
