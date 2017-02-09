@@ -354,5 +354,26 @@
 			{"name":"Relish"},
 			{"name":"Tzatziki dip"}
 		]
+	},
+	"Drinks":{
+		"LOW":[
+			{"name:"Beer (one max)"},
+			{"name":"Coffee, black"},
+			{"name":"Drinking chocolate powder"},
+			{"name":"Herbal tea (weak)"},
+			{"name":"Orange juice (125ml max)"},
+			{"name":"Peppermint tea"},
+			{"name":"Water"},
+			{"name":"Wine (one max)"},
+		],
+		"HIGH":[
+			{"name":"Coconut water"},
+			{"name":"Apple juice"},
+			{"name":"Pear juice"},
+			{"name":"Mango juice"},
+			{"name":"Sodas with HFCS"},
+			{"name":"Fennel tea"},
+			{"name":"Herbal tea (strong)"}
+		]
 	}
 }
