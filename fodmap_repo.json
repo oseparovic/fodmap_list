@@ -357,7 +357,6 @@
                  "name": "Soy milk made with soy beans"
                  }
                  ]
-    }
     },
 	"Dairy":{
 		"LOW":[
@@ -411,7 +410,7 @@
             {"name":"Mannitol"},
             {"name":"Sorbitol"},
             {"name":"Xylitol"}            ]
-}
+},
 	"Condiments":{
 		"LOW":[
 			{"name":"Barbeque sauce"},
