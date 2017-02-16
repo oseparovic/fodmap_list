@@ -85,6 +85,11 @@
         "category": "Meat & Substitutes"
     },
     {
+        "name": "Eggs",
+        "fodmap": "low",
+        "category": "Dairy"
+    },
+    {
         "name": "Beer (one max)",
         "fodmap": "low",
         "category": "Drinks"
