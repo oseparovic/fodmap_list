@@ -1,5 +1,80 @@
 [
     {
+        "name": "Cold cuts / deli meat / cold meats such as ham and turkey breast",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
+        "name": "Turkey",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
+        "name": "Prosciutto",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
+        "name": "Thyme",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Tarragon",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Rosemary",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Rampa",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Pandan",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Oregano",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Mint",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Lemongrass",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Gotukala",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Fenugreek",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Curry leaves",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Coriander",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
         "name": "Cilantro",
         "fodmap": "low",
         "category": "Cooking ingredients, Herbs and Spices"
