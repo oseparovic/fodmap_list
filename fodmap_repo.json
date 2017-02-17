@@ -1,5 +1,165 @@
 [
     {
+        "name": "Taro",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Soy beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Mung beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Lima beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Haricot beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Sauerkraut",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Falafel",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Choko",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Cho Cho",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Cassava",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Butter beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Broad beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Kidney beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Black eyed peas",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Black beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Beetroot",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Baked beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Artichoke",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Mushroom",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Kefir",
+        "fodmap": "high",
+        "category": "Dairy"
+    },
+    {
+        "name": "White tea",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Green tea",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Black tea, weak",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Black tea, strong",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Chai tea, weak",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Oolong tea",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Dandelion tea, strong",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Chai tea, strong",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Chamomile ea",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Sports drinks",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Soy milk made with soy beans",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
+        "name": "Rum",
+        "fodmap": "high",
+        "category": "Drinks"
+    },
+    {
         "name": "Cold cuts / deli meat / cold meats such as ham and turkey breast",
         "fodmap": "low",
         "category": "Meat & Substitutes"
@@ -165,11 +325,6 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Beans",
-        "fodmap": "high",
-        "category": "Vegetables and legumes"
-    },
-    {
         "name": "Beef",
         "fodmap": "low",
         "category": "Meat & Substitutes"
@@ -265,7 +420,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Celery",
+        "name": "Celery (less than 5cm)",
         "fodmap": "low",
         "category": "Vegetables and legumes"
     },
