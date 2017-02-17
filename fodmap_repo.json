@@ -1,5 +1,20 @@
 [
     {
+        "name": "Cilantro",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Basil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Parsley",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
         "name": "Acesulfame K",
         "fodmap": "low",
         "category": "Sweeteners"
@@ -95,12 +110,12 @@
         "category": "Drinks"
     },
     {
-        "name": "Blackberries",
+        "name": "Blackberry",
         "fodmap": "high",
         "category": "Fruit"
     },
     {
-        "name": "Blueberries",
+        "name": "Blueberry",
         "fodmap": "low",
         "category": "Fruit"
     },
