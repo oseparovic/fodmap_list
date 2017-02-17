@@ -90,11 +90,6 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Mushroom",
-        "fodmap": "high",
-        "category": "Vegetables and legumes"
-    },
-    {
         "name": "Kefir",
         "fodmap": "high",
         "category": "Dairy"
