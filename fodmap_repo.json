@@ -1,5 +1,75 @@
 [
     {
+        "name": "Lentils",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Shallot",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Nectarine",
+        "fodmap": "high",
+        "category": "Fruit"
+    },
+    {
+        "name": "Mandarin",
+        "fodmap": "low",
+        "category": "Fruit"
+    },
+    {
+        "name": "Whiskey",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Vodka",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Yam",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Rutabaga",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Radish",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Olives",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Chives",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Bell pepper",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Arugula",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Bok choy",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Taro",
         "fodmap": "high",
         "category": "Vegetables and legumes"
@@ -141,11 +211,6 @@
     },
     {
         "name": "Sports drinks",
-        "fodmap": "high",
-        "category": "Drinks"
-    },
-    {
-        "name": "Soy milk made with soy beans",
         "fodmap": "high",
         "category": "Drinks"
     },
@@ -435,7 +500,7 @@
         "category": "Nuts and Seeds"
     },
     {
-        "name": "Chick Peas",
+        "name": "Chickpeas",
         "fodmap": "low",
         "category": "Vegetables and legumes"
     },
