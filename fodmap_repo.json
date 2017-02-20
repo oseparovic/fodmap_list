@@ -1,5 +1,40 @@
 [
     {
+        "name": "Ground beef",
+        "fodmap": "high",
+        "category": "Meat & Substitutes"
+    },
+    {
+        "name": "Cakes",
+        "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Croissants",
+        "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Crumpets",
+        "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Bagel",
+        "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Margarine",
+        "fodmap": "low",
+        "category": "Dairy"
+    },
+    {
+        "name": "Ketchup (USA) – 1 sachet",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Lentils",
         "fodmap": "high",
         "category": "Vegetables and legumes"
@@ -306,6 +341,11 @@
     },
     {
         "name": "Parsley",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Cinnamon",
         "fodmap": "low",
         "category": "Cooking ingredients, Herbs and Spices"
     },
@@ -705,7 +745,22 @@
         "category": "Fruit"
     },
     {
-        "name": "Greek yoghurt",
+        "name": "Yoghurt, Greek, in small amounts",
+        "fodmap": "low",
+        "category": "Dairy"
+    },
+    {
+        "name": "Yoghurt, goats",
+        "fodmap": "low",
+        "category": "Dairy"
+    },
+    {
+        "name": "Yoghurt, lactose free",
+        "fodmap": "low",
+        "category": "Dairy"
+    },
+    {
+        "name": "Yoghurt",
         "fodmap": "high",
         "category": "Dairy"
     },
