@@ -1,5 +1,40 @@
 [
     {
+        "name": "Vanilla", 
+        "fodmap": "low",
+        "category": "Sweeteners"
+    },
+    {
+        "name": "Prune", 
+        "fodmap": "high",
+        "category": "Fruit"
+    },
+    {
+        "name": "Pickled vegetables", 
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Brown sugar", 
+        "fodmap": "low",
+        "category": "Sweeteners"
+    },
+    {
+        "name": "White sugar", 
+        "fodmap": "low",
+        "category": "Sweeteners"
+    },
+    {
+        "name": "Maple syrup", 
+        "fodmap": "low",
+        "category": "Sweeteners"
+    },
+    {
+        "name": "Fresh fish e.g. Cod, Haddock, Plaice, Salmon, Trout, Tuna", 
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
         "name": "Ground beef",
         "fodmap": "low",
         "category": "Meat & Substitutes"
@@ -20,7 +55,7 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Bagel",
+        "name": "Bagel (any type with gluten)",
         "fodmap": "high",
         "category": "Breads, Cereals, Grains and Pasta"
     },
