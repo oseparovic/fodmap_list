@@ -30,11 +30,6 @@
         "category": "Sweeteners"
     },
     {
-        "name": "Fresh fish e.g. Cod, Haddock, Plaice, Salmon, Trout, Tuna", 
-        "fodmap": "low",
-        "category": "Meat & Substitutes"
-    },
-    {
         "name": "Ground beef",
         "fodmap": "low",
         "category": "Meat & Substitutes"
@@ -1378,5 +1373,75 @@
         "name": "Xylitol",
         "fodmap": "high",
         "category": "Sweeteners"
+    },
+    {
+        "name": "Zucchini",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Tahini",
+        "fodmap": "high",
+        "category": "Condiments"
+    },
+    {
+        "name": "Spinach",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+      "name": "Shrimp",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Prawns",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Oysters",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Mussels",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Lobster",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Crab",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Tuna",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Trout",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Salmon",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Cod",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Haddock",
+       "fodmap": "low",
+       "category": "Meat & Substitutes" 
     }
 ]
