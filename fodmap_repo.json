@@ -1505,8 +1505,13 @@
        "category": "Meat & Substitutes" 
     },
     {
-      "name": "Olive oil",
+      "name": "Olive Oil",
        "fodmap": "low",
        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+      "name": "Goji Berries",
+       "fodmap": "high",
+       "category": "Fruit"
     }
 ]
