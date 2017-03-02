@@ -1503,5 +1503,10 @@
       "name": "Haddock",
        "fodmap": "low",
        "category": "Meat & Substitutes" 
+    },
+    {
+      "name": "Olive oil",
+       "fodmap": "low",
+       "category": "Cooking ingredients, Herbs and Spices"
     }
 ]
