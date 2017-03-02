@@ -1,5 +1,65 @@
 [
     {
+        "name": "Baking soda",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Turmeric",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Baking powder",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Pumpkin seeds",
+        "fodmap": "low",
+        "category": "Nuts and Seeds"
+    },
+    {
+        "name": "Pomegranate",
+        "fodmap": "high",
+        "category": "Fruit"
+    },
+    {
+        "name": "Pinto beans",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Dates",
+        "fodmap": "high",
+        "category": "Fruit"
+    },
+    {
+        "name": "Curry powder",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Coconut sugar (small amounts)",
+        "fodmap": "low",
+        "category": "Sweeteners"
+    },
+    {
+        "name": "Coconut cream (1/2 cup max)",
+        "fodmap": "low",
+        "category": "Milk"
+    },
+    {
+        "name": "Vinegar",
+        "fodmap": "low",
+        "category": "Condiments"
+    },
+    {
+        "name": "Bacon",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
         "name": "Vanilla", 
         "fodmap": "low",
         "category": "Sweeteners"
