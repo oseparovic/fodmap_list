@@ -1,5 +1,25 @@
 [
     {
+        "name": "Scallop",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
+        "name": "Flax seeds (2 teaspoons)",
+        "fodmap": "low",
+        "category": "Nuts and Seeds"
+    },
+    {
+        "name": "Leeks",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Kholrabi",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Cherries",
         "fodmap": "high",
         "category": "Fruit"
