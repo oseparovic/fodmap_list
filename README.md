@@ -23,3 +23,4 @@ Notes:
 * http://www.katescarlata.com/lowfodmapdietchecklists/
 * https://www.dietvsdisease.org/low-fodmaps-food-list/
 * http://laurabama.blogspot.ca/2013/01/comprehensive-list-of-highlow-fodmap.html
+* http://whole30.com/downloads/whole30-shopping-list-FODMAP.pdf
