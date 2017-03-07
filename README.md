@@ -19,6 +19,7 @@ Notes:
 
 # Sources: 
 
+* http://www.ibsdiets.org/fodmap-diet/fodmap-food-list/
 * http://www.ibsdiets.org/wp-content/uploads/2016/03/IBSDiets-FODMAP-chart.pdf
 * http://www.katescarlata.com/lowfodmapdietchecklists/
 * https://www.dietvsdisease.org/low-fodmaps-food-list/
