@@ -690,7 +690,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Cheddar",
+        "name": "Cheddar cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -910,22 +910,22 @@
         "category": "Fruit"
     },
     {
-        "name": "Yoghurt, Greek, in small amounts",
+        "name": "Greek yogurt (small amounts)",
         "fodmap": "low",
         "category": "Dairy"
     },
     {
-        "name": "Yoghurt, goats",
+        "name": "Goat yogurt",
         "fodmap": "low",
         "category": "Dairy"
     },
     {
-        "name": "Yoghurt, lactose free",
+        "name": "Lactose free yogurt",
         "fodmap": "low",
         "category": "Dairy"
     },
     {
-        "name": "Yoghurt",
+        "name": "Yogurt",
         "fodmap": "high",
         "category": "Dairy"
     },
