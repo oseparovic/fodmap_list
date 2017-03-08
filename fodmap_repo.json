@@ -1,5 +1,50 @@
 [
     {
+        "name": "Almond butter (1 tbsp)",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Seaweed / nori",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Pine nuts (15 max)",
+        "fodmap": "low",
+        "category": "Nuts and Seeds"
+    },
+    {
+        "name": "Lime juice",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Lime",
+        "fodmap": "low",
+        "category": "Fruit"
+    },
+    {
+        "name": "Figs",
+        "fodmap": "high",
+        "category": "Fruit"
+    },
+    {
+        "name": "Silverbeet / chard",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Ginger",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Coconut oil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
         "name": "Scallop",
         "fodmap": "low",
         "category": "Meat & Substitutes"
@@ -580,7 +625,7 @@
         "category": "Nuts and Seeds"
     },
     {
-        "name": "Brie",
+        "name": "Brie cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -615,7 +660,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Camembert",
+        "name": "Camembert cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -710,7 +755,7 @@
         "category": "Drinks"
     },
     {
-        "name": "Colby",
+        "name": "Colby cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -805,7 +850,7 @@
         "category": "Drinks"
     },
     {
-        "name": "Feta",
+        "name": "Feta cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -895,7 +940,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Havarti",
+        "name": "Havarti cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -1040,7 +1085,7 @@
         "category": "Dairy"
     },
     {
-        "name": "Mozzarella",
+        "name": "Mozzarella cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -1095,7 +1140,7 @@
         "category": "Fruit"
     },
     {
-        "name": "Parmesan",
+        "name": "Parmesan cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -1145,7 +1190,7 @@
         "category": "Nuts and Seeds"
     },
     {
-        "name": "Pecorino",
+        "name": "Pecorino cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
@@ -1390,7 +1435,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Swiss",
+        "name": "Swiss cheese",
         "fodmap": "low",
         "category": "Cheese"
     },
