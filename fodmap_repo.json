@@ -1,5 +1,10 @@
 [
     {
+        "name": "Peanut butter",
+        "fodmap": "low",
+        "category": "Condiments"
+    },
+    {
         "name": "Almond butter (1 tbsp)",
         "fodmap": "low",
         "category": "Cooking ingredients, Herbs and Spices"
