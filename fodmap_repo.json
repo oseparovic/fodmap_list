@@ -760,11 +760,6 @@
         "category": "Cheese"
     },
     {
-        "name": "Cold cuts e.g. Ham and turkey breast",
-        "fodmap": "low",
-        "category": "Meat & Substitutes"
-    },
-    {
         "name": "Corn",
         "fodmap": "low",
         "category": "Vegetables and legumes"
