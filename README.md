@@ -26,3 +26,4 @@ Notes:
 * http://www.ibsgroup.org/brochures/fodmap-intolerances.pdf
 * http://whole30.com/downloads/whole30-shopping-list-FODMAP.pdf
 * http://www.arizonadigestivehealth.com/wp-content/uploads/2014/06/FODMAP-diet-for-IBS.pdf
+* http://fodmapliving.com/wp-content/uploads/2013/02/Stanford-University-Low-FODMAP-Diet-Handout.pdf
