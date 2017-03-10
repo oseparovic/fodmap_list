@@ -1280,7 +1280,17 @@
         "category": "Fruit"
     },
     {
-        "name": "Rice e.g. Basmata, brown, white",
+        "name": "Brown rice",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "White rice",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Basmati rice",
         "fodmap": "low",
         "category": "Breads, Cereals, Grains and Pasta"
     },
