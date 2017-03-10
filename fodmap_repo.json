@@ -1,5 +1,10 @@
 [
     {
+        "name": "Beets",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Peanut butter",
         "fodmap": "low",
         "category": "Condiments"
