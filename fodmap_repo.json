@@ -1,5 +1,15 @@
 [
     {
+        "name": "Canola oil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Brussel sprouts (2 max)",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Peanut butter",
         "fodmap": "low",
         "category": "Condiments"
@@ -1400,7 +1410,7 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Squash",
+        "name": "Butternut squash (1/4 cup max)",
         "fodmap": "low",
         "category": "Vegetables and legumes"
     },
