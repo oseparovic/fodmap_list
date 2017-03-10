@@ -1,5 +1,45 @@
 [
     {
+        "name": "Vegetable oil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Peanut oil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Cocoa powder",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
+    },
+    {
+        "name": "Pineapple",
+        "fodmap": "low",
+        "category": "Fruit"
+    },
+    {
+        "name": "Hummus / houmous",
+        "fodmap": "high",
+        "category": "Condiments"
+    },
+    {
+        "name": "Instant coffee (only if not made with lactose or other FODMAPS)",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Coffee (regular or decaf)",
+        "fodmap": "low",
+        "category": "Drinks"
+    },
+    {
+        "name": "Tofu (drained or firm)",
+        "fodmap": "low",
+        "category": "Meat & Substitutes"
+    },
+    {
         "name": "Canola oil",
         "fodmap": "low",
         "category": "Cooking ingredients, Herbs and Spices"
