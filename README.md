@@ -8,7 +8,7 @@ Supported food items use the following format:
         "category": "Sweeteners"
     }
     
-* **name** - plaintext name of the food item
+* **name** - plaintext name of the food item, include serving max in brackets
 * **fodmap** - fodmap classification of the item. Currently only "low" and "high" are supported
 * **category** - food category this item belongs to
 
@@ -27,3 +27,4 @@ Notes:
 * http://whole30.com/downloads/whole30-shopping-list-FODMAP.pdf
 * http://www.arizonadigestivehealth.com/wp-content/uploads/2014/06/FODMAP-diet-for-IBS.pdf
 * http://fodmapliving.com/wp-content/uploads/2013/02/Stanford-University-Low-FODMAP-Diet-Handout.pdf
+* http://www.rgal.com/wp-content/uploads/sites/11/2013/11/FODMAP-Diet-Chart.pdf
