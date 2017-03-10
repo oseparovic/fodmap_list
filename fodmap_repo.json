@@ -1370,8 +1370,23 @@
         "category": "Milk"
     },
     {
-        "name": "Spelt",
+        "name": "Spelt flakes",
         "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Spelt bread (non-sourdough)",
+        "fodmap": "high",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Spelt bread (sourdough)",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Spelt pasta (1/2 cup max)",
+        "fodmap": "low",
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
