@@ -1,10 +1,5 @@
 [
     {
-        "name": "Beets",
-        "fodmap": "high",
-        "category": "Vegetables and legumes"
-    },
-    {
         "name": "Peanut butter",
         "fodmap": "low",
         "category": "Condiments"
@@ -350,7 +345,7 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Beetroot",
+        "name": "Beetroots/Beets",
         "fodmap": "high",
         "category": "Vegetables and legumes"
     },
