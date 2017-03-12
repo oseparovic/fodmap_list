@@ -1,5 +1,15 @@
 [
     {
+        "name": "Polenta",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Fennel",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    },
+    {
         "name": "Vegetable oil",
         "fodmap": "low",
         "category": "Cooking ingredients, Herbs and Spices"
