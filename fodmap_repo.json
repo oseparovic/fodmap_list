@@ -1663,5 +1663,15 @@
       "name": "Goji Berries",
        "fodmap": "high",
        "category": "Fruit"
+    },
+    {
+        "name": "Rice Crackers",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Rice Cakes",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
     }
 ]
