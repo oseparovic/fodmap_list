@@ -55,9 +55,10 @@
         "category": "Cooking ingredients, Herbs and Spices"
     },
     {
-        "name": "Brussel sprouts (2 max)",
+        "name": "Brussel sprouts",
         "fodmap": "low",
-        "category": "Vegetables and legumes"
+        "category": "Vegetables and legumes",
+        "qty":"2"
     },
     {
         "name": "Peanut butter",
@@ -65,9 +66,10 @@
         "category": "Condiments"
     },
     {
-        "name": "Almond butter (1 tbsp)",
+        "name": "Almond butter",
         "fodmap": "low",
-        "category": "Cooking ingredients, Herbs and Spices"
+        "category": "Cooking ingredients, Herbs and Spices",
+        "qty":"1 tbsp"
     },
     {
         "name": "Seaweed / nori",
@@ -75,9 +77,10 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Pine nuts (15 max)",
+        "name": "Pine nuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"15"
     },
     {
         "name": "Lime juice",
@@ -115,9 +118,10 @@
         "category": "Meat & Substitutes"
     },
     {
-        "name": "Flax seeds (2 teaspoons)",
+        "name": "Flax seeds",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"2 teaspoons"
     },
     {
         "name": "Leeks",
@@ -175,14 +179,16 @@
         "category": "Cooking ingredients, Herbs and Spices"
     },
     {
-        "name": "Coconut sugar (small amounts)",
+        "name": "Coconut sugar",
         "fodmap": "low",
-        "category": "Sweeteners"
+        "category": "Sweeteners",
+        "qty":"small amounts"
     },
     {
-        "name": "Coconut cream (1/2 cup max)",
+        "name": "Coconut cream",
         "fodmap": "low",
-        "category": "Milk"
+        "category": "Milk",
+        "qty":"1/2 cup"
     },
     {
         "name": "Vinegar",
@@ -255,9 +261,10 @@
         "category": "Dairy"
     },
     {
-        "name": "Ketchup (USA) – 1 sachet",
+        "name": "Ketchup",
         "fodmap": "low",
-        "category": "Condiments"
+        "category": "Condiments",
+        "qty":"1 sachet"
     },
     {
         "name": "Lentils",
@@ -590,9 +597,10 @@
         "category": "Milk"
     },
     {
-        "name": "Almonds (max of 10)",
+        "name": "Almonds",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Apple juice",
@@ -660,9 +668,10 @@
         "category": "Dairy"
     },
     {
-        "name": "Beer (one max)",
+        "name": "Beer",
         "fodmap": "low",
-        "category": "Drinks"
+        "category": "Drinks",
+        "qty":"1"
     },
     {
         "name": "Blackberry",
@@ -680,9 +689,10 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Brazil Nuts (max of 10)",
+        "name": "Brazil Nuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Brie cheese",
@@ -690,9 +700,10 @@
         "category": "Cheese"
     },
     {
-        "name": "Broccoli (1/2 cup max)",
+        "name": "Broccoli",
         "fodmap": "low",
-        "category": "Vegetables and legumes"
+        "category": "Vegetables and legumes",
+        "qty":"1/2 cup"
     },
     {
         "name": "Buckwheat",
@@ -745,9 +756,10 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Celery (less than 5cm)",
+        "name": "Celery",
         "fodmap": "low",
-        "category": "Vegetables and legumes"
+        "category": "Vegetables and legumes",
+        "qty":"Less than 5cm"
     },
     {
         "name": "Cheddar cheese",
@@ -755,9 +767,10 @@
         "category": "Cheese"
     },
     {
-        "name": "Chestnuts (max of 10)",
+        "name": "Chestnuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Chia seeds",
@@ -785,9 +798,10 @@
         "category": "Meat & Substitutes"
     },
     {
-        "name": "Chutney (1 tbsp max)",
+        "name": "Chutney",
         "fodmap": "low",
-        "category": "Condiments"
+        "category": "Condiments",
+        "qty":"1 tbsp"
     },
     {
         "name": "Clementine",
@@ -965,9 +979,10 @@
         "category": "Fruit"
     },
     {
-        "name": "Greek yogurt (small amounts)",
+        "name": "Greek yogurt",
         "fodmap": "low",
-        "category": "Dairy"
+        "category": "Dairy",
+        "qty":"Small Amounts"
     },
     {
         "name": "Goat yogurt",
@@ -1000,9 +1015,10 @@
         "category": "Cheese"
     },
     {
-        "name": "Hazelnuts (max of 10)",
+        "name": "Hazelnuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Hemp milk",
@@ -1095,9 +1111,10 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Macademia nuts (max of 20)",
+        "name": "Macademia nuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"20"
     },
     {
         "name": "Maltitol",
@@ -1135,9 +1152,10 @@
         "category": "Fruit"
     },
     {
-        "name": "Milk chocolate (3 squares max)",
+        "name": "Milk chocolate",
         "fodmap": "low",
-        "category": "Dairy"
+        "category": "Dairy",
+        "qty":"3 squares"
     },
     {
         "name": "Mozzarella cheese",
@@ -1165,14 +1183,16 @@
         "category": "Condiments"
     },
     {
-        "name": "Oat milk (30ml max)",
+        "name": "Oat milk",
         "fodmap": "low",
-        "category": "Milk"
+        "category": "Milk",
+        "qty":"30 ml"
     },
     {
-        "name": "Oatmeal (1/2 cup max)",
+        "name": "Oatmeal",
         "fodmap": "low",
-        "category": "Breads, Cereals, Grains and Pasta"
+        "category": "Breads, Cereals, Grains and Pasta",
+        "qty":"1/2 cup"
     },
     {
         "name": "Onions",
@@ -1185,9 +1205,10 @@
         "category": "Fruit"
     },
     {
-        "name": "Orange juice (125ml max)",
+        "name": "Orange juice",
         "fodmap": "low",
-        "category": "Drinks"
+        "category": "Drinks",
+        "qty":"125 ml"
     },
     {
         "name": "Papaya",
@@ -1220,9 +1241,10 @@
         "category": "Fruit"
     },
     {
-        "name": "Peanuts (max of 32)",
+        "name": "Peanuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"32"
     },
     {
         "name": "Pear juice",
@@ -1240,9 +1262,10 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Pecans (max of 10)",
+        "name": "Pecans",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Pecorino cheese",
@@ -1275,9 +1298,10 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Poppy seeds (2 tablespoons)",
+        "name": "Poppy seeds",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"2 tbsp"
     },
     {
         "name": "Pork",
@@ -1400,9 +1424,10 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Sesame seeds (2 tablespoons)",
+        "name": "Sesame seeds",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"2 tbsp"
     },
     {
         "name": "Sheep's milk",
@@ -1455,14 +1480,16 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "Spelt pasta (1/2 cup max)",
+        "name": "Spelt pasta",
         "fodmap": "low",
-        "category": "Breads, Cereals, Grains and Pasta"
+        "category": "Breads, Cereals, Grains and Pasta",
+        "qty":"1/2 cup"
     },
     {
-        "name": "Butternut squash (1/4 cup max)",
+        "name": "Butternut squash",
         "fodmap": "low",
-        "category": "Vegetables and legumes"
+        "category": "Vegetables and legumes",
+        "qty":"1/4 cup"
     },
     {
         "name": "Star Fruit",
@@ -1500,9 +1527,10 @@
         "category": "Fruit"
     },
     {
-        "name": "Sunflower seeds (2 teaspoons)",
+        "name": "Sunflower seeds",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"2 tsp"
     },
     {
         "name": "Sweet Potato",
@@ -1550,9 +1578,10 @@
         "category": "Condiments"
     },
     {
-        "name": "Walnuts (max of 10)",
+        "name": "Walnuts",
         "fodmap": "low",
-        "category": "Nuts and Seeds"
+        "category": "Nuts and Seeds",
+        "qty":"10"
     },
     {
         "name": "Water",
@@ -1570,14 +1599,16 @@
         "category": "Breads, Cereals, Grains and Pasta"
     },
     {
-        "name": "White chocolate (3 squares max)",
+        "name": "White chocolate",
         "fodmap": "low",
-        "category": "Dairy"
+        "category": "Dairy",
+        "qty":"3 Squares"
     },
     {
-        "name": "Wine (one max)",
+        "name": "Wine",
         "fodmap": "low",
-        "category": "Drinks"
+        "category": "Drinks",
+        "qty":"1 glass"
     },
     {
         "name": "Xylitol",
