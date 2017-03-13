@@ -1673,5 +1673,10 @@
         "name": "Rice Cakes",
         "fodmap": "low",
         "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Edamame",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
     }
 ]
