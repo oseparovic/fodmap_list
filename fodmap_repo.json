@@ -1685,8 +1685,13 @@
         "category": "Vegetables and legumes"
     },
     {
-        "name": "Balsamic Vinegar (2 tbsp)",
+        "name": "Balsamic Vinegar (2 tbsp max)",
         "fodmap": "low",
         "category": "Condiments"
-    }     
+    },
+    {
+        "name": "Apple Cider Vinegar (2 tbsp max)",
+        "fodmap": "low",
+        "category": "Condiments"
+    }       
 ]
