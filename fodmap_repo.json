@@ -1476,12 +1476,12 @@
     },
     {
         "name": "Strawberry",
-        "fodmap": "high",
+        "fodmap": "low",
         "category": "Fruit"
     },
     {
         "name": "Strawberry jam / jelly",
-        "fodmap": "low",
+        "fodmap": "high",
         "category": "Condiments"
     },
     {
