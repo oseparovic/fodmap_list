@@ -1683,5 +1683,10 @@
         "name": "Acorn Squash",
         "fodmap": "low",
         "category": "Vegetables and legumes"
+    },
+    {
+        "name": "Balsamic Vinegar (2 tbsp)",
+        "fodmap": "low",
+        "category": "Condiments"
     }     
 ]
