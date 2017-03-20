@@ -2014,5 +2014,47 @@
     "name": "Edamame",
     "fodmap": "high",
     "category": "Vegetables and legumes"
+  },
+  {
+    "id": "337",
+    "name": "Acorn Squash",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "338",
+    "name": "Balsamic Vinegar (2 tbsp max)",
+    "fodmap": "low",
+    "category": "Condiments"
+  },
+  {
+    "id": "339",
+    "name": "Apple Cider Vinegar (2 tbsp max)",
+    "fodmap": "low",
+    "category": "Condiments"
+  },
+  {
+    "id": "340",
+    "name": "Split Peas",
+    "fodmap": "high",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "341",
+    "name": "Blue Cheese",
+    "fodmap": "low",
+    "category": "Cheese"
+  },
+  {
+    "id": "342",
+    "name": "Tapioca",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "343",
+    "name": "Sesame Oil",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
   }
 ]
