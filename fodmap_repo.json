@@ -1698,5 +1698,15 @@
         "name": "Split Peas",
         "fodmap": "high",
         "category": "Vegetables and legumes"
-    }    
+    },
+    {
+        "name": "Blue Cheese",
+        "fodmap": "low",
+        "category": "Cheese"
+    },
+    {
+        "name": "Tapioca",
+        "fodmap": "low",
+        "category": "Breads, Cereals, Grains and Pasta"
+    }
 ]
