@@ -1678,5 +1678,10 @@
         "name": "Edamame",
         "fodmap": "high",
         "category": "Vegetables and legumes"
-    }
+    },
+    {
+        "name": "Acorn Squash",
+        "fodmap": "low",
+        "category": "Vegetables and legumes"
+    }     
 ]
