@@ -1693,5 +1693,10 @@
         "name": "Apple Cider Vinegar (2 tbsp max)",
         "fodmap": "low",
         "category": "Condiments"
-    }       
+    },
+    {
+        "name": "Split Peas",
+        "fodmap": "high",
+        "category": "Vegetables and legumes"
+    }    
 ]
