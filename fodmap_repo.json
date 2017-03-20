@@ -1708,5 +1708,10 @@
         "name": "Tapioca",
         "fodmap": "low",
         "category": "Breads, Cereals, Grains and Pasta"
+    },
+    {
+        "name": "Sesame Oil",
+        "fodmap": "low",
+        "category": "Cooking ingredients, Herbs and Spices"
     }
 ]
