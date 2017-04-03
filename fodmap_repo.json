@@ -139,7 +139,7 @@
   },
   {
     "id": "24",
-    "name": "Flax seeds (2 teaspoons)",
+    "name": "Flax seeds/lineseed (2 teaspoons)",
     "fodmap": "low",
     "category": "Nuts and Seeds"
   },
@@ -985,7 +985,7 @@
   },
   {
     "id": "165",
-    "name": "Corn",
+    "name": "Corn / Sweet corn (1/2 cob)",
     "fodmap": "low",
     "category": "Vegetables and legumes"
   },
@@ -1663,13 +1663,13 @@
   },
   {
     "id": "278",
-    "name": "Scallions/Spring Onions (green part)",
+    "name": "Scallions / Spring onions / Green onions (green part)",
     "fodmap": "low",
     "category": "Vegetables and legumes"
   },
   {
     "id": "279",
-    "name": "Scallions/spring onions (white part)",
+    "name": "Scallions / Spring onions / Green onions (white part)",
     "fodmap": "high",
     "category": "Vegetables and legumes"
   },
@@ -2056,5 +2056,107 @@
     "name": "Sesame Oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "344",
+    "name": "Spaghetti squash (2.5 cups max)",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "345",
+    "name": "Okra",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "346",
+    "name": "Capers",
+    "fodmap": "low",
+    "category": "Condiments"
+  },
+  {
+    "id": "347",
+    "name": "Gin",
+    "fodmap": "low",
+    "category": "Drinks"
+  },
+  {
+    "id": "348",
+    "name": "Jasmine rice",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "349",
+    "name": "Kombucha",
+    "fodmap": "high",
+    "category": "Drinks"
+  },
+  {
+    "id": "350",
+    "name": "Molasses",
+    "fodmap": "high",
+    "category": "Condiments"
+  },
+  {
+    "id": "351",
+    "name": "Sorghum (2/3 cup)",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "352",
+    "name": "Almond flour (1/4 cup)",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "353",
+    "name": "Coconut flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "354",
+    "name": "Cumin",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "355",
+    "name": "Endive",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "356",
+    "name": "Garlic powder",
+    "fodmap": "high",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "357",
+    "name": "Garlic salt",
+    "fodmap": "high",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "358",
+    "name": "Millet flour (2/3 cup)",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "359",
+    "name": "Halloumi / Hellim (50g)",
+    "fodmap": "low",
+    "category": "Cheese"
+  },
+  {
+    "id": "360",
+    "name": "Rice noodles",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
   }
 ]
