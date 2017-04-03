@@ -2158,5 +2158,35 @@
     "name": "Rice noodles",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "361",
+    "name": "Watercress",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "362",
+    "name": "Celeriac",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "363",
+    "name": "Salt",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "364",
+    "name": "Pepper, black",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "365",
+    "name": "Jicama",
+    "fodmap": "high",
+    "category": "Vegetables and legumes"
   }
 ]
