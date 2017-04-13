@@ -2188,5 +2188,17 @@
     "name": "Jicama",
     "fodmap": "high",
     "category": "Vegetables and legumes"
+  },
+  {
+    "id": "366",
+    "name": "Paprika",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "367",
+    "name": "Asiago cheese",
+    "fodmap": "low",
+    "category": "Cheese"
   }
 ]
