@@ -1772,12 +1772,12 @@
   {
     "id": "296",
     "name": "Strawberry",
-    "fodmap": "high",
+    "fodmap": "low",
     "category": "Fruit"
   },
   {
     "id": "297",
-    "name": "Strawberry jam / jelly",
+    "name": "Strawberry jam / jelly (without HFCS)",
     "fodmap": "low",
     "category": "Condiments"
   },
