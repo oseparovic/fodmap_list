@@ -69,7 +69,8 @@
     "id": "12",
     "name": "Brussel sprouts (2 max)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "qty":"2"
   },
   {
     "id": "13",
@@ -81,7 +82,8 @@
     "id": "14",
     "name": "Almond butter (1 tbsp)",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "qty":"1 tbsp"
   },
   {
     "id": "15",
@@ -93,7 +95,8 @@
     "id": "16",
     "name": "Pine nuts (15 max)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"15"
   },
   {
     "id": "17",
@@ -141,7 +144,8 @@
     "id": "24",
     "name": "Flax seeds/lineseed (2 teaspoons)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"2 teaspoons"
   },
   {
     "id": "25",
@@ -219,7 +223,8 @@
     "id": "37",
     "name": "Coconut cream (1/2 cup max)",
     "fodmap": "low",
-    "category": "Milk"
+    "category": "Milk",
+    "qty":"1/2 cup"
   },
   {
     "id": "38",
@@ -309,7 +314,8 @@
     "id": "52",
     "name": "Ketchup (USA) – 1 sachet",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "qty":"1 sachet"
   },
   {
     "id": "53",
@@ -711,7 +717,8 @@
     "id": "119",
     "name": "Almonds (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"10"
   },
   {
     "id": "120",
@@ -819,7 +826,8 @@
     "id": "137",
     "name": "Brazil Nuts (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"10"
   },
   {
     "id": "138",
@@ -831,7 +839,8 @@
     "id": "139",
     "name": "Broccoli (1/2 cup max)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "qty":"1/2 cup"
   },
   {
     "id": "140",
@@ -897,7 +906,8 @@
     "id": "150",
     "name": "Celery (less than 5cm)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "qty":"5cm"
   },
   {
     "id": "151",
@@ -909,7 +919,8 @@
     "id": "152",
     "name": "Chestnuts (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"10"
   },
   {
     "id": "153",
@@ -945,7 +956,8 @@
     "id": "158",
     "name": "Chutney (1 tbsp max)",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "qty":"1 tbsp"
   },
   {
     "id": "159",
@@ -987,7 +999,8 @@
     "id": "165",
     "name": "Corn / Sweet corn (1/2 cob)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"qty":"1/2 cob"
   },
   {
     "id": "166",
@@ -1203,7 +1216,8 @@
     "id": "201",
     "name": "Hazelnuts (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+    "qty":"10"
   },
   {
     "id": "202",
@@ -1317,7 +1331,8 @@
     "id": "220",
     "name": "Macademia nuts (max of 20)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"20"
   },
   {
     "id": "221",
@@ -1365,7 +1380,8 @@
     "id": "228",
     "name": "Milk chocolate (3 squares max)",
     "fodmap": "low",
-    "category": "Dairy"
+    "category": "Dairy",
+	"qty":"3 squares"
   },
   {
     "id": "229",
@@ -1401,13 +1417,15 @@
     "id": "234",
     "name": "Oat milk (30ml max)",
     "fodmap": "low",
-    "category": "Milk"
+    "category": "Milk",
+	"qty":"30ml"
   },
   {
     "id": "235",
     "name": "Oatmeal (1/2 cup max)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"qty":"1/2 cup"
   },
   {
     "id": "236",
@@ -1425,7 +1443,8 @@
     "id": "238",
     "name": "Orange juice (125ml max)",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"qty":"125ml"
   },
   {
     "id": "239",
@@ -1467,7 +1486,8 @@
     "id": "245",
     "name": "Peanuts (max of 32)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"32"
   },
   {
     "id": "246",
@@ -1491,7 +1511,8 @@
     "id": "249",
     "name": "Pecans (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"10"
   },
   {
     "id": "250",
@@ -1533,7 +1554,8 @@
     "id": "256",
     "name": "Poppy seeds (2 tablespoons)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"2 tablespoons"
   },
   {
     "id": "257",
@@ -1683,7 +1705,8 @@
     "id": "281",
     "name": "Sesame seeds (2 tablespoons)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"2 tablespoons"
   },
   {
     "id": "282",
@@ -1749,13 +1772,15 @@
     "id": "292",
     "name": "Spelt pasta (1/2 cup max)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"qty":"1/2 cup"
   },
   {
     "id": "293",
     "name": "Butternut squash (1/4 cup max)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"qty":"1/4 cup"
   },
   {
     "id": "294",
@@ -1803,7 +1828,8 @@
     "id": "301",
     "name": "Sunflower seeds (2 teaspoons)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"2 teaspoons"
   },
   {
     "id": "302",
@@ -1863,7 +1889,8 @@
     "id": "311",
     "name": "Walnuts (max of 10)",
     "fodmap": "low",
-    "category": "Nuts and Seeds"
+    "category": "Nuts and Seeds",
+	"qty":"10"
   },
   {
     "id": "312",
@@ -1887,13 +1914,15 @@
     "id": "315",
     "name": "White chocolate (3 squares max)",
     "fodmap": "low",
-    "category": "Dairy"
+    "category": "Dairy",
+	"qty":"3 squares"
   },
   {
     "id": "316",
     "name": "Wine (one max)",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"qty":"1"
   },
   {
     "id": "317",
@@ -2025,13 +2054,15 @@
     "id": "338",
     "name": "Balsamic Vinegar (2 tbsp max)",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+	"qty":"2 tbsp"
   },
   {
     "id": "339",
     "name": "Apple Cider Vinegar (2 tbsp max)",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+	"qty":"2 tbsp"
   },
   {
     "id": "340",
@@ -2061,7 +2092,8 @@
     "id": "344",
     "name": "Spaghetti squash (2.5 cups max)",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"qty":"2.5 cups"
   },
   {
     "id": "345",
@@ -2103,13 +2135,15 @@
     "id": "351",
     "name": "Sorghum (2/3 cup)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"qty":"2/3 cups"
   },
   {
     "id": "352",
     "name": "Almond flour (1/4 cup)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"qty":"1/4 cup"
   },
   {
     "id": "353",
@@ -2145,13 +2179,15 @@
     "id": "358",
     "name": "Millet flour (2/3 cup)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"qty":"2/3 cup"
   },
   {
     "id": "359",
     "name": "Halloumi / Hellim (50g)",
     "fodmap": "low",
-    "category": "Cheese"
+    "category": "Cheese",
+	"qty":"50g"
   },
   {
     "id": "360",
