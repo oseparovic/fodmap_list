@@ -2187,7 +2187,7 @@
     "name": "Halloumi / Hellim (50g)",
     "fodmap": "low",
     "category": "Cheese",
-	"qty":"50g"
+    "qty":"50g"
   },
   {
     "id": "360",
@@ -2236,5 +2236,29 @@
     "name": "Asiago cheese",
     "fodmap": "low",
     "category": "Cheese"
+  },
+  {
+    "id": "368",
+    "name": "Miso paste",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "369",
+    "name": "Tomato paste",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "370",
+    "name": "Baby spinach",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "371",
+    "name": "Apricots, dried",
+    "fodmap": "high",
+    "category": "Fruit"
   }
 ]
