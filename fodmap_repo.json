@@ -943,7 +943,7 @@
   },
   {
     "id": "156",
-    "name": "Chips / crisps (plain)",
+    "name": "Chips, potato crisps (plain)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta"
   },
@@ -1871,7 +1871,7 @@
   },
   {
     "id": "308",
-    "name": "Tortilla chips",
+    "name": "Chips, tortilla",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta"
   },
@@ -2280,12 +2280,24 @@
     "name": "Banana, dried",
     "fodmap": "low",
     "category": "Fruit",
-	"qty":"20"
+    "qty":"20"
   },
   {
     "id": "375",
     "name": "Yucca root",
     "fodmap": "high",
     "category": "Vegetables and legumes"
+  },
+  {
+    "id": "376",
+    "name": "Feijoa",
+    "fodmap": "high",
+    "category": "Fruit"
+  },
+  {
+    "id": "377",
+    "name": "Chips, corn (plain)",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
   }
 ]
