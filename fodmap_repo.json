@@ -2305,5 +2305,11 @@
     "name": "Nutritional Yeast",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "379",
+    "name": "Tempeh",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
   }
 ]
