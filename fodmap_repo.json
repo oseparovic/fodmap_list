@@ -2299,5 +2299,11 @@
     "name": "Chips, corn (plain)",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "378",
+    "name": "Nutritional Yeast",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
   }
 ]
