@@ -2096,7 +2096,7 @@
     "name": "Spaghetti squash",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-	"qty":"2.5 cups"
+    "qty":"2.5 cups"
   },
   {
     "id": "345",
@@ -2310,6 +2310,50 @@
   {
     "id": "379",
     "name": "Tempeh",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "380",
+    "name": "Snow peas",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+    "qty":"5 pods"
+  },
+  {
+    "id": "381",
+    "name": "Capsicum",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "382",
+    "name": "Collard greens",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "383",
+    "name": "Lemonade",
+    "fodmap": "low",
+    "category": "Drinks",
+    "qty":"small amounts"
+  },
+  {
+    "id": "384",
+    "name": "Nutmeg",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "385",
+    "name": "Persimmon",
+    "fodmap": "high",
+    "category": "Fruit"
+  },
+  {
+    "id": "386",
+    "name": "Tumeric",
     "fodmap": "low",
     "category": "Vegetables and legumes"
   }
