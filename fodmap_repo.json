@@ -1652,8 +1652,9 @@
   {
     "id": "272",
     "name": "Rice milk",
-    "fodmap": "high",
-    "category": "Milk"
+    "fodmap": "low",
+    "category": "Milk",
+    "qty":"200ml"
   },
   {
     "id": "273",
