@@ -2356,5 +2356,92 @@
     "name": "Tumeric",
     "fodmap": "low",
     "category": "Vegetables and legumes"
+  },
+  {
+    "id": "387",
+    "name": "Wheat flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "388",
+    "name": "Wild rice",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "389",
+    "name": "Alfalfa sprouts",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "390",
+    "name": "Amaranth flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "391",
+    "name": "Amaranth, puffed grain",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta",
+    "qty":"1/4 cup"
+  },
+  {
+    "id": "392",
+    "name": "Cardamom",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "393",
+    "name": "Carob powder",
+    "fodmap": "high",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "394",
+    "name": "Chicory leaves",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "395",
+    "name": "Garbanzo beans, canned",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+    "qty":"1/4 cup"
+  },
+  {
+    "id": "396",
+    "name": "Gherkins in vinegar",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
+  },
+  {
+    "id": "397",
+    "name": "Lychee",
+    "fodmap": "high",
+    "category": "Fruit"
+  },
+  {
+    "id": "398",
+    "name": "Palm sugar",
+    "fodmap": "low",
+    "category": "Sweeteners"
+  },
+  {
+    "id": "399",
+    "name": "Pesto sauce",
+    "fodmap": "low",
+    "category": "Condiments",
+    "qty":"10g"
+  },
+  {
+    "id": "400",
+    "name": "Sunflower oil",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
   }
 ]
