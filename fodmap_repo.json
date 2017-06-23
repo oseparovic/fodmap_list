@@ -2443,5 +2443,17 @@
     "name": "Sunflower oil",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "401",
+    "name": "Grits",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "402",
+    "name": "Horseradish",
+    "fodmap": "low",
+    "category": "Condiments"
   }
 ]
