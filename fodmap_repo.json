@@ -2455,5 +2455,17 @@
     "name": "Horseradish",
     "fodmap": "low",
     "category": "Condiments"
+  },
+  {
+    "id": "403",
+    "name": "Plantains",
+    "fodmap": "low",
+    "category": "Fruit"
+  },
+  {
+    "id": "404",
+    "name": "Ghee",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices"
   }
 ]
