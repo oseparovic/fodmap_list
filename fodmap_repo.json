@@ -2474,5 +2474,42 @@
     "name": "Oatcake",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "406",
+    "name": "Dried Cranberries",
+    "fodmap": "low",
+    "category": "Fruit",
+    "qty": "1/2 tablespoon"
+  },
+  {
+    "id": "407",
+    "name": "Currants",
+    "fodmap": "high",
+    "category": "Fruit",
+  },
+  {
+    "id": "408",
+    "name": "Vegemite",
+    "fodmap": "low",
+    "category": "Condiments"
+  },
+  {
+    "id": "409",
+    "name": "Marmite",
+    "fodmap": "low",
+    "category": "Condiments"
+  },
+  {
+    "id": "410",
+    "name": "Onion Powder",
+    "fodmap": "high",
+    "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "411",
+    "name": "Garlic Powder",
+    "fodmap": "high",
+    "category": "Cooking ingredients, Herbs and Spices"
   }
 ]
