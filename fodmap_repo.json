@@ -933,7 +933,8 @@
     "id": "154",
     "name": "Chickpeas",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "qty":"1/4 cup"
   },
   {
     "id": "155",
