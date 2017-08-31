@@ -2511,5 +2511,11 @@
     "name": "Garlic Powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+{
+    "id": "412",
+    "name": "Rocket",
+    "fodmap": "low",
+    "category": "Vegetables and legumes"
   }
 ]
