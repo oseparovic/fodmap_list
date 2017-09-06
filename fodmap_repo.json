@@ -2511,5 +2511,29 @@
     "name": "Garlic Powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "412",
+    "name": "Rambutan",
+    "fodmap": "high",
+    "category": "Fruit"
+  },
+  {
+    "id": "413",
+    "name": "Soba noodles",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "414",
+    "name": "Whey cheese",
+    "fodmap": "high",
+    "category": "Cheese"
+  },
+  {
+    "id": "415",
+    "name": "Wasabi",
+    "fodmap": "high",
+    "category": "Condiments"
   }
 ]
