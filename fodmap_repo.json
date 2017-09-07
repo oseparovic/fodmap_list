@@ -9,137 +9,159 @@
   {
     "id": "2",
     "name": "Fennel",
-    "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "3",
     "name": "Vegetable oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "4",
     "name": "Peanut oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "5",
     "name": "Cocoa powder",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "6",
     "name": "Pineapple",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "7",
     "name": "Hummus / houmous",
     "fodmap": "high",
-    "category": "Condiments"
+    "category": "Condiments",
+	"details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "8",
     "name": "Instant coffee (only if not made with lactose or other FODMAPS)",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "9",
     "name": "Coffee (regular or decaf)",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "10",
     "name": "Tofu (drained or firm)",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "11",
     "name": "Canola oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "12",
     "name": "Brussel sprouts",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"2"
+    "qty":"2",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "13",
     "name": "Peanut butter",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "14",
     "name": "Almond butter",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
-    "qty":"1 tbsp"
+    "qty":"1 tbsp",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "15",
     "name": "Seaweed / nori",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "16",
     "name": "Pine nuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
-    "qty":"15"
+    "qty":"15",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "17",
     "name": "Lime juice",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "18",
     "name": "Lime",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "19",
-    "name": "Figs",
+    "name": "Figs, dried",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "20",
     "name": "Silverbeet / chard",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "21",
     "name": "Ginger",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "22",
     "name": "Coconut oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "23",
     "name": "Scallop",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+	"details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "24",
@@ -2531,5 +2553,12 @@
     "name": "Wasabi powder",
     "fodmap": "low",
     "category": "Condiments"
+  },
+  {
+    "id": "415",
+    "name": "Figs, fresh",
+    "fodmap": "high",
+    "category": "Fruit",
+	"details": {"oligos":false,"fructose":true,"polyols":false,"lactose":false}
   }
 ]
