@@ -2515,8 +2515,9 @@
   {
     "id": "412",
     "name": "Rambutan",
-    "fodmap": "high",
-    "category": "Fruit"
+    "fodmap": "low",
+    "category": "Fruit",
+    "qty":"2 rambutans"
   },
   {
     "id": "413",
@@ -2526,14 +2527,8 @@
   },
   {
     "id": "414",
-    "name": "Whey cheese",
-    "fodmap": "high",
-    "category": "Cheese"
-  },
-  {
-    "id": "415",
-    "name": "Wasabi",
-    "fodmap": "high",
+    "name": "Wasabi powder",
+    "fodmap": "low",
     "category": "Condiments"
   }
 ]
