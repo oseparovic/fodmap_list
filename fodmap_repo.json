@@ -2511,5 +2511,24 @@
     "name": "Garlic Powder",
     "fodmap": "high",
     "category": "Cooking ingredients, Herbs and Spices"
+  },
+  {
+    "id": "412",
+    "name": "Rambutan",
+    "fodmap": "low",
+    "category": "Fruit",
+    "qty":"2 rambutans"
+  },
+  {
+    "id": "413",
+    "name": "Soba noodles",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta"
+  },
+  {
+    "id": "414",
+    "name": "Wasabi powder",
+    "fodmap": "low",
+    "category": "Condiments"
   }
 ]
