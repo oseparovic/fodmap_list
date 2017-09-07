@@ -3,7 +3,8 @@
     "id": "1",
     "name": "Polenta",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
   },
   {
     "id": "2",
