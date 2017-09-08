@@ -46,7 +46,7 @@
     "name": "Hummus / houmous",
     "fodmap": "high",
     "category": "Condiments",
-	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "8",
@@ -133,14 +133,14 @@
     "name": "Figs, dried",
     "fodmap": "high",
     "category": "Fruit",
-	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "20",
     "name": "Silverbeet / chard",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "21",
@@ -1324,7 +1324,7 @@
     "name": "Havarti cheese",
     "fodmap": "low",
     "category": "Cheese",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "201",
@@ -1332,70 +1332,70 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"10",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "202",
     "name": "Hemp milk",
     "fodmap": "low",
     "category": "Milk",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "203",
     "name": "Oats",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "204",
     "name": "Herbal tea (strong)",
     "fodmap": "high",
     "category": "Drinks",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "205",
     "name": "Herbal tea (weak)",
     "fodmap": "low",
     "category": "Drinks",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":1,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "206",
     "name": "High Fructose Corn Syrup (HFCS)",
     "fodmap": "high",
     "category": "Sweeteners",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "207",
     "name": "Hommus dip",
     "fodmap": "high",
     "category": "Condiments",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "208",
     "name": "Honey",
     "fodmap": "high",
     "category": "Sweeteners",
-    "details": {"oligos":false,"fructose":true,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "209",
     "name": "Ice cream",
     "fodmap": "high",
     "category": "Dairy",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":true}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":1}
   },
   {
     "id": "210",
     "name": "Inulin",
     "fodmap": "high",
     "category": "Sweeteners",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "211",
@@ -1408,56 +1408,56 @@
     "name": "Jam (mixed berries)",
     "fodmap": "high",
     "category": "Condiments",
-    "details": {"oligos":false,"fructose":false,"polyols":true,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "213",
     "name": "Kale",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "214",
     "name": "Kiwifruit",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "215",
     "name": "Kumquat",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "216",
     "name": "Lactose free milk",
     "fodmap": "low",
     "category": "Milk",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "217",
     "name": "Lamb",
     "fodmap": "low",
     "category": "Meat & Substitutes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "218",
     "name": "Lemon",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "219",
     "name": "Lettuce (e.g. rocket, butter, iceberg, radicchio, red coral)",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "220",
@@ -1465,56 +1465,56 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"20",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "221",
     "name": "Maltitol",
     "fodmap": "high",
     "category": "Sweeteners",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "222",
     "name": "Mange tout",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-    "details": {"oligos":true,"fructose":false,"polyols":true,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "223",
     "name": "Mango",
     "fodmap": "high",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":true,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "224",
     "name": "Mango juice",
     "fodmap": "high",
     "category": "Drinks",
-    "details": {"oligos":false,"fructose":true,"polyols":true,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "225",
     "name": "Mannitol",
     "fodmap": "high",
     "category": "Sweeteners",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "226",
     "name": "Mayonnaise",
     "fodmap": "low",
     "category": "Condiments",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "227",
     "name": "Melons e.g. Honeydew, galia",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "228",
@@ -1522,21 +1522,21 @@
     "fodmap": "low",
     "category": "Dairy",
     "qty":"3 squares",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "229",
     "name": "Mozzarella cheese",
     "fodmap": "low",
     "category": "Cheese",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "230",
     "name": "Muesli",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "231",
@@ -1549,14 +1549,14 @@
     "name": "Mushrooms",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-    "details": {"oligos":true,"fructose":false,"polyols":true,"lactose":false}
+    "details": {"oligos":1,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "233",
     "name": "Mustard",
     "fodmap": "low",
     "category": "Condiments",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "234",
@@ -1564,7 +1564,7 @@
     "fodmap": "low",
     "category": "Milk",
     "qty":"30ml",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "235",
@@ -1572,21 +1572,21 @@
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
     "qty":"1/2 cup",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "236",
     "name": "Onions",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "237",
     "name": "Orange",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "238",
@@ -1594,49 +1594,49 @@
     "fodmap": "high",
     "category": "Drinks",
     "qty":"125ml",
-    "details": {"oligos":false,"fructose":true,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "239",
     "name": "Papaya",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "240",
     "name": "Parmesan cheese",
     "fodmap": "low",
     "category": "Cheese",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "241",
     "name": "Parsnip",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "242",
     "name": "Passion Fruit",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "243",
     "name": "Pasta sauce (cream based)",
     "fodmap": "high",
     "category": "Condiments",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":true}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":1}
   },
   {
     "id": "244",
     "name": "Peaches",
     "fodmap": "high",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":true,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "245",
@@ -1644,28 +1644,28 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"32",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "246",
     "name": "Pear juice",
     "fodmap": "high",
     "category": "Drinks",
-    "details": {"oligos":false,"fructose":true,"polyols":true,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "247",
     "name": "Pears",
     "fodmap": "high",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":true,"polyols":true,"lactose":false}
+    "details": {"oligos":0,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "248",
     "name": "Peas",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "249",
@@ -1673,49 +1673,49 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"10",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "250",
     "name": "Pecorino cheese",
     "fodmap": "low",
     "category": "Cheese",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "251",
     "name": "Peppermint tea",
     "fodmap": "low",
     "category": "Drinks",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "252",
     "name": "Pineapple",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "253",
     "name": "Pistachio",
     "fodmap": "high",
     "category": "Nuts and Seeds",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "254",
     "name": "Plums",
     "fodmap": "high",
     "category": "Fruit",
-    "details": {"oligos":true,"fructose":false,"polyols":true,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "255",
     "name": "Popcorn",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "256",
@@ -1723,112 +1723,112 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"2 tablespoons",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "257",
     "name": "Pork",
     "fodmap": "low",
     "category": "Meat & Substitutes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "258",
     "name": "Potato",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "259",
     "name": "Pretzels",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "260",
     "name": "Pumpkin",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "261",
     "name": "Pumpkin seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "262",
     "name": "Quinoa",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "263",
     "name": "Quorn mince",
     "fodmap": "low",
     "category": "Meat & Substitutes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "264",
     "name": "Raisins",
     "fodmap": "high",
     "category": "Fruit",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "265",
     "name": "Raspberry",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "266",
     "name": "Red Peppers",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "267",
     "name": "Relish",
     "fodmap": "high",
     "category": "Condiments",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "268",
     "name": "Rhubarb",
     "fodmap": "low",
     "category": "Fruit",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "269",
     "name": "Brown rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "270",
     "name": "White rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "271",
     "name": "Basmati rice",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "272",
@@ -1836,56 +1836,56 @@
     "fodmap": "low",
     "category": "Milk",
     "qty":"200ml",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "273",
     "name": "Ricotta cheese",
     "fodmap": "high",
     "category": "Cheese",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":true}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":1}
   },
   {
     "id": "274",
     "name": "Rye",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":true,"fructose":true,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "275",
     "name": "Saccharine",
     "fodmap": "low",
     "category": "Sweeteners",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "276",
     "name": "Sausages",
     "fodmap": "high",
     "category": "Meat & Substitutes",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "277",
     "name": "Savory biscuits",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "278",
     "name": "Scallions / Spring onions / Green onions (green part)",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "279",
     "name": "Scallions / Spring onions / Green onions (white part)",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-    "details": {"oligos":true,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "280",
@@ -1899,14 +1899,14 @@
     "fodmap": "low",
     "category": "Nuts and Seeds",
     "qty":"2 tablespoons",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "282",
     "name": "Sheep's milk",
     "fodmap": "high",
     "category": "Milk",
-    "details": {"oligos":false,"fructose":false,"polyols":false,"lactose":false}
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "283",
@@ -1924,199 +1924,231 @@
     "id": "285",
     "name": "Sour cream",
     "fodmap": "high",
-    "category": "Dairy"
+    "category": "Dairy",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":2}
   },
   {
     "id": "286",
     "name": "Soy milk made with soy beans",
     "fodmap": "high",
-    "category": "Milk"
+    "category": "Milk",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "287",
     "name": "Soy sauce",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "288",
     "name": "Soya milk made with soy protein",
     "fodmap": "low",
-    "category": "Milk"
+    "category": "Milk",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "289",
     "name": "Spelt flakes",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "290",
     "name": "Spelt bread (non-sourdough)",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "291",
     "name": "Spelt bread (sourdough)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "292",
     "name": "Spelt pasta",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "qty":"1/2 cup"
+    "qty":"1/2 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "293",
     "name": "Butternut squash",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"1/4 cup"
+    "qty":"1/4 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "294",
     "name": "Star Fruit",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "295",
     "name": "Stevia",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "296",
     "name": "Strawberry",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "297",
     "name": "Strawberry jam / jelly (without HFCS)",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "298",
     "name": "Sucralose",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "299",
     "name": "Sugar/sucrose",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "300",
     "name": "Sultanas",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "301",
     "name": "Sunflower seeds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
-    "qty":"2 teaspoons"
+    "qty":"2 teaspoons",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "302",
     "name": "Sweet Potato",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "303",
     "name": "Swiss cheese",
     "fodmap": "low",
-    "category": "Cheese"
+    "category": "Cheese",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "304",
     "name": "Tamarind",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "305",
     "name": "Tangelo",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "306",
     "name": "Tomato sauce",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "307",
     "name": "Tomatoes",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "308",
     "name": "Chips, tortilla",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "309",
     "name": "Turnip",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "310",
     "name": "Tzatziki dip",
     "fodmap": "high",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":2,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "311",
     "name": "Walnuts",
     "fodmap": "low",
     "category": "Nuts and Seeds",
-    "qty":"10"
+    "qty":"10",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "312",
     "name": "Water",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "313",
     "name": "Watermelon",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":2,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "314",
     "name": "Wheat foods e.g. Bread, cereal, pasta",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "315",
     "name": "White chocolate",
     "fodmap": "low",
     "category": "Dairy",
-    "qty":"3 squares"
+    "qty":"3 squares",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "316",
     "name": "Wine",
     "fodmap": "low",
     "category": "Drinks",
-	"qty":"1"
+    "qty":"1",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "317",
@@ -2128,196 +2160,228 @@
     "id": "318",
     "name": "Zucchini",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "319",
     "name": "Tahini",
     "fodmap": "high",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "320",
     "name": "Spinach",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "321",
     "name": "Shrimp",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "322",
     "name": "Prawns",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "323",
     "name": "Oysters",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "324",
     "name": "Mussels",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "325",
     "name": "Lobster",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "326",
     "name": "Crab",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "327",
     "name": "Tuna",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "328",
     "name": "Trout",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "329",
     "name": "Salmon",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "330",
     "name": "Cod",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "331",
     "name": "Haddock",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "332",
     "name": "Olive Oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "333",
     "name": "Goji Berries",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "334",
     "name": "Rice Crackers",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "335",
     "name": "Rice Cakes",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "336",
     "name": "Edamame",
-    "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "337",
     "name": "Acorn Squash",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "338",
     "name": "Balsamic Vinegar",
     "fodmap": "low",
     "category": "Condiments",
-    "qty":"2 tbsp"
+    "qty":"2 tbsp",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "339",
     "name": "Apple Cider Vinegar",
     "fodmap": "low",
     "category": "Condiments",
-    "qty":"2 tbsp"
+    "qty":"2 tbsp",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "340",
     "name": "Split Peas",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "341",
     "name": "Blue Cheese",
     "fodmap": "low",
-    "category": "Cheese"
+    "category": "Cheese",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "342",
     "name": "Tapioca",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "343",
     "name": "Sesame Oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "344",
     "name": "Spaghetti squash",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"2.5 cups"
+    "qty":"2.5 cups",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "345",
     "name": "Okra",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "346",
     "name": "Capers",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "347",
     "name": "Gin",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "348",
     "name": "Jasmine rice",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "349",
     "name": "Kombucha",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "350",
@@ -2330,396 +2394,460 @@
     "name": "Sorghum",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "qty":"2/3 cups"
+    "qty":"2/3 cups",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "352",
     "name": "Almond flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "qty":"1/4 cup"
+    "qty":"1/4 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "353",
     "name": "Coconut flour",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":2,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "354",
     "name": "Cumin",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "355",
     "name": "Endive",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "356",
     "name": "Garlic powder",
     "fodmap": "high",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "357",
     "name": "Garlic salt",
     "fodmap": "high",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "358",
     "name": "Millet flour",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "qty":"2/3 cup"
+    "qty":"2/3 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "359",
     "name": "Halloumi / Hellim",
     "fodmap": "low",
     "category": "Cheese",
-    "qty":"50g"
+    "qty":"50g",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "360",
     "name": "Rice noodles",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "361",
     "name": "Watercress",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "362",
     "name": "Celeriac",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "363",
     "name": "Salt",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "364",
     "name": "Pepper, black",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "365",
     "name": "Jicama",
-    "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "366",
     "name": "Paprika",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "367",
     "name": "Asiago cheese",
     "fodmap": "low",
-    "category": "Cheese"
+    "category": "Cheese",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "368",
     "name": "Miso paste",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "369",
     "name": "Tomato paste",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "370",
     "name": "Baby spinach",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "371",
     "name": "Apricots, dried",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":1,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "372",
     "name": "Guava, ripe",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "373",
     "name": "Guava, unripe",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "374",
     "name": "Banana, dried",
     "fodmap": "low",
     "category": "Fruit",
-    "qty":"20"
+    "qty":"20",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "375",
     "name": "Yucca root",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "376",
     "name": "Feijoa",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "377",
     "name": "Chips, corn (plain)",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "378",
     "name": "Nutritional Yeast",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "379",
     "name": "Tempeh",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "380",
     "name": "Snow peas",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"5 pods"
+    "qty":"5 pods",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "381",
     "name": "Capsicum",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "382",
     "name": "Collard greens",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "383",
     "name": "Lemonade",
     "fodmap": "low",
     "category": "Drinks",
-    "qty":"small amounts"
+    "qty":"small amounts",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "384",
     "name": "Nutmeg",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "385",
     "name": "Persimmon",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "386",
     "name": "Tumeric",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "387",
     "name": "Wheat flour",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "388",
     "name": "Wild rice",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "389",
     "name": "Alfalfa sprouts",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "390",
     "name": "Amaranth flour",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "391",
     "name": "Amaranth, puffed grain",
     "fodmap": "low",
     "category": "Breads, Cereals, Grains and Pasta",
-    "qty":"1/4 cup"
+    "qty":"1/4 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "392",
     "name": "Cardamom",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "393",
     "name": "Carob powder",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "394",
     "name": "Chicory leaves",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "395",
     "name": "Garbanzo beans, canned",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"1/4 cup"
+    "qty":"1/4 cup",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "396",
     "name": "Gherkins in vinegar",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "397",
     "name": "Lychee",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "398",
     "name": "Palm sugar",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "399",
     "name": "Pesto sauce",
     "fodmap": "low",
     "category": "Condiments",
-    "qty":"10g"
+    "qty":"10g",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "400",
     "name": "Sunflower oil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "401",
     "name": "Grits",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "402",
     "name": "Horseradish",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "403",
     "name": "Plantains",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "404",
     "name": "Ghee",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "405",
     "name": "Oatcake",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "406",
     "name": "Dried Cranberries",
     "fodmap": "low",
     "category": "Fruit",
-    "qty": "1/2 tablespoon"
+    "qty": "1/2 tablespoon",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "407",
     "name": "Currants",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "408",
     "name": "Vegemite",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "409",
     "name": "Marmite",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "410",
     "name": "Onion Powder",
     "fodmap": "high",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "411",
     "name": "Garlic Powder",
     "fodmap": "high",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "412",
     "name": "Rambutan",
     "fodmap": "low",
     "category": "Fruit",
-    "qty":"2 rambutans"
+    "qty":"2 rambutans",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "413",
     "name": "Soba noodles",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "414",
     "name": "Wasabi powder",
     "fodmap": "low",
-    "category": "Condiments"
+    "category": "Condiments",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "415",
