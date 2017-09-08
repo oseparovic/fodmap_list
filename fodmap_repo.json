@@ -375,85 +375,99 @@
     "id": "54",
     "name": "Shallot",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "55",
     "name": "Nectarine",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":2,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "56",
     "name": "Mandarin",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "57",
     "name": "Whiskey",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "58",
     "name": "Vodka",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "59",
     "name": "Yam",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "60",
     "name": "Rutabaga",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "61",
     "name": "Radish",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "62",
     "name": "Olives",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "63",
     "name": "Chives",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "64",
     "name": "Bell pepper",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "65",
     "name": "Arugula",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "66",
     "name": "Bok choy",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "67",
     "name": "Taro",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "68",
@@ -483,31 +497,36 @@
     "id": "72",
     "name": "Sauerkraut",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "73",
     "name": "Falafel",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "74",
-    "name": "Choko",
+    "name": "Chayote / choko",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "75",
     "name": "Cho Cho",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "76",
     "name": "Cassava",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "77",
@@ -519,7 +538,8 @@
     "id": "78",
     "name": "Broad beans",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "79",
@@ -543,79 +563,92 @@
     "id": "82",
     "name": "Beetroots/Beets",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "83",
     "name": "Baked beans",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "84",
-    "name": "Artichoke",
+    "name": "Artichoke, globe",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "85",
     "name": "Kefir",
     "fodmap": "high",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":2}
   },
   {
     "id": "86",
     "name": "White tea",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "87",
     "name": "Green tea",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "88",
     "name": "Black tea, weak",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "89",
     "name": "Black tea, strong",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":1,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "90",
     "name": "Chai tea, weak",
     "fodmap": "low",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "91",
     "name": "Oolong tea",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "92",
     "name": "Dandelion tea, strong",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "93",
     "name": "Chai tea, strong",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "94",
-    "name": "Chamomile ea",
+    "name": "Chamomile tea",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "95",
@@ -627,7 +660,8 @@
     "id": "96",
     "name": "Rum",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "97",
@@ -639,37 +673,43 @@
     "id": "98",
     "name": "Turkey",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "99",
     "name": "Prosciutto",
     "fodmap": "low",
-    "category": "Meat & Substitutes"
+    "category": "Meat & Substitutes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "100",
     "name": "Thyme",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "101",
     "name": "Tarragon",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "102",
     "name": "Rosemary",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "103",
     "name": "Rampa",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "104",
@@ -681,134 +721,156 @@
     "id": "105",
     "name": "Oregano",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "106",
     "name": "Mint",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "107",
     "name": "Lemongrass",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "108",
     "name": "Gotukala",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "109",
-    "name": "Fenugreek",
+    "name": "Fenugreek leaves, dried",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "110",
     "name": "Curry leaves",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "111",
     "name": "Coriander",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "112",
     "name": "Cilantro",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "113",
     "name": "Basil",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "114",
     "name": "Parsley",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "115",
     "name": "Cinnamon",
     "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
+    "category": "Cooking ingredients, Herbs and Spices",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "116",
     "name": "Acesulfame K",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "117",
     "name": "Agave",
     "fodmap": "high",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+	"details": {"oligos":2,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "118",
     "name": "Almond milk",
     "fodmap": "low",
-    "category": "Milk"
+    "category": "Milk",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "119",
     "name": "Almonds",
     "fodmap": "low",
     "category": "Nuts and Seeds",
-    "qty":"10"
+    "qty":"10",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "120",
     "name": "Apple juice",
     "fodmap": "high",
-    "category": "Drinks"
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "121",
     "name": "Apples",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":0,"fructose":2,"polyols":2,"lactose":0}
   },
   {
     "id": "122",
     "name": "Apricot",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":1,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "123",
     "name": "Asparagus",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
   },
   {
     "id": "124",
     "name": "Aspartame",
     "fodmap": "low",
-    "category": "Sweeteners"
+    "category": "Sweeteners",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "125",
     "name": "Avocado",
     "fodmap": "high",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":0,"fructose":0,"polyols":2,"lactose":0}
   },
   {
     "id": "126",
     "name": "Bamboo shoots",
     "fodmap": "low",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "127",
@@ -2664,6 +2726,13 @@
     "name": "Figs, fresh",
     "fodmap": "high",
     "category": "Fruit",
-	"details": {"oligos":false,"fructose":true,"polyols":false,"lactose":false}
+	"details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "416",
+    "name": "Dandelion tea, weak",
+    "fodmap": "low",
+    "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   }
 ]
