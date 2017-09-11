@@ -292,13 +292,6 @@
 	"details": {"oligos":2,"fructose":0,"polyols":2,"lactose":0}
   },
   {
-    "id": "42",
-    "name": "Pickles/Pickled vegetables",
-    "fodmap": "high",
-    "category": "Vegetables and legumes",
-	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
-  },
-  {
     "id": "43",
     "name": "Brown sugar",
     "fodmap": "low",
@@ -327,12 +320,6 @@
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
-    "id": "47",
-    "name": "Cakes",
-    "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
-  },
-  {
     "id": "48",
     "name": "Croissants",
     "fodmap": "high",
@@ -341,12 +328,6 @@
   {
     "id": "49",
     "name": "Crumpets",
-    "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
-  },
-  {
-    "id": "50",
-    "name": "Bagel (any type with gluten)",
     "fodmap": "high",
     "category": "Breads, Cereals, Grains and Pasta"
   },
@@ -367,9 +348,11 @@
   },
   {
     "id": "53",
-    "name": "Lentils",
-    "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "name": "Lentils, boiled",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+	"qty":"1/4 cup",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "54",
@@ -467,31 +450,35 @@
     "name": "Taro",
     "fodmap": "high",
     "category": "Vegetables and legumes",
-	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "68",
-    "name": "Soy beans",
+    "name": "Soy beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "69",
-    "name": "Mung beans",
+    "name": "Mung beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "70",
-    "name": "Lima beans",
+    "name": "Lima beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "71",
-    "name": "Haricot beans",
+    "name": "Haricot beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "72",
@@ -530,9 +517,10 @@
   },
   {
     "id": "77",
-    "name": "Butter beans",
+    "name": "Butter beans, canned",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "78",
@@ -543,9 +531,10 @@
   },
   {
     "id": "79",
-    "name": "Kidney beans",
+    "name": "Kidney beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "80",
@@ -555,9 +544,10 @@
   },
   {
     "id": "81",
-    "name": "Black beans",
+    "name": "Black beans, boiled",
     "fodmap": "high",
-    "category": "Vegetables and legumes"
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "82",
@@ -651,12 +641,6 @@
 	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
-    "id": "95",
-    "name": "Sports drinks",
-    "fodmap": "high",
-    "category": "Drinks"
-  },
-  {
     "id": "96",
     "name": "Rum",
     "fodmap": "high",
@@ -706,16 +690,10 @@
   },
   {
     "id": "103",
-    "name": "Rampa",
+    "name": "Rampa / pandan leaves",
     "fodmap": "low",
     "category": "Cooking ingredients, Herbs and Spices",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
-  },
-  {
-    "id": "104",
-    "name": "Pandan",
-    "fodmap": "low",
-    "category": "Cooking ingredients, Herbs and Spices"
   },
   {
     "id": "105",
@@ -874,9 +852,10 @@
   },
   {
     "id": "127",
-    "name": "Bananas",
-    "fodmap": "low",
-    "category": "Fruit"
+    "name": "Bananas, ripe",
+    "fodmap": "high",
+    "category": "Fruit",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "128",
@@ -887,9 +866,10 @@
   },
   {
     "id": "129",
-    "name": "Barley",
+    "name": "Barley, pearl",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "130",
@@ -936,9 +916,10 @@
   },
   {
     "id": "136",
-    "name": "Bran",
+    "name": "Wheat bran, pellets",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":2,"fructose":1,"polyols":0,"lactose":0}
   },
   {
     "id": "137",
@@ -965,9 +946,10 @@
   },
   {
     "id": "140",
-    "name": "Buckwheat",
+    "name": "Buckwheat, flour",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "141",
@@ -1064,10 +1046,11 @@
   },
   {
     "id": "154",
-    "name": "Chickpeas",
+    "name": "Chickpeas, canned",
     "fodmap": "low",
     "category": "Vegetables and legumes",
-    "qty":"1/4 cup"
+    "qty":"1/4 cup",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "155",
@@ -1162,16 +1145,11 @@
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
-    "id": "168",
-    "name": "Courgette",
-    "fodmap": "low",
-    "category": "Vegetables and legumes"
-  },
-  {
     "id": "169",
-    "name": "Cous cous",
+    "name": "Cous cous, wheat",
     "fodmap": "high",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "170",
@@ -1184,19 +1162,22 @@
     "id": "171",
     "name": "Cranberry",
     "fodmap": "low",
-    "category": "Fruit"
+    "category": "Fruit",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "172",
-    "name": "Cream",
+    "name": "Cream, regular fat",
     "fodmap": "high",
-    "category": "Dairy"
+    "category": "Dairy",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":1}
   },
   {
     "id": "173",
     "name": "Cream cheese",
     "fodmap": "high",
-    "category": "Cheese"
+    "category": "Cheese",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":1}
   },
   {
     "id": "174",
@@ -1216,7 +1197,7 @@
     "id": "176",
     "name": "Dark chocolate",
     "fodmap": "low",
-    "category": "Dairy",
+    "category": "Sweeteners",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
@@ -1283,9 +1264,10 @@
   },
   {
     "id": "186",
-    "name": "Gluten free foods e.g. breads, pasta",
+    "name": "Gluten free wheat products (e.g. breads, cereals, pasta) made without high fodmap ingredients like honey or garlic",
     "fodmap": "low",
-    "category": "Breads, Cereals, Grains and Pasta"
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "187",
@@ -2216,7 +2198,7 @@
   },
   {
     "id": "318",
-    "name": "Zucchini",
+    "name": "Zucchini / courgette",
     "fodmap": "low",
     "category": "Vegetables and legumes",
     "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
@@ -2919,6 +2901,70 @@
     "name": "Dandelion tea, weak",
     "fodmap": "low",
     "category": "Drinks",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "417",
+    "name": "Lentils, canned",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "418",
+    "name": "Mung beans, sprouted",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "419",
+    "name": "Kidney beans, sprouted",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "420",
+    "name": "Black beans, canned",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "421",
+    "name": "Bananas, unripe",
+    "fodmap": "low",
+    "category": "Fruit",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "422",
+    "name": "Barley, sprouted",
+    "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "423",
+    "name": "Barley, flour",
+    "fodmap": "high",
+    "category": "Breads, Cereals, Grains and Pasta",
+	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "424",
+    "name": "Chickpeas, sprouted",
+    "fodmap": "high",
+    "category": "Vegetables and legumes",
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "425",
+    "name": "Cranberry, dried",
+    "fodmap": "low",
+    "category": "Fruit",
+	"qty":"1 tbsp",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   }
 ]
