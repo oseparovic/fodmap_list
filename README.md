@@ -37,7 +37,7 @@ Keep in mind because the FODMAP diet is relatively new, many foods have not been
 * http://whole30.com/downloads/whole30-shopping-list-FODMAP.pdf
 * http://www.arizonadigestivehealth.com/wp-content/uploads/2014/06/FODMAP-diet-for-IBS.pdf
 * http://fodmapliving.com/wp-content/uploads/2013/02/Stanford-University-Low-FODMAP-Diet-Handout.pdf
-* http://www.rgal.com/wp-content/uploads/sites/11/2013/11/FODMAP-Diet-Chart.pdf
+* https://www.regionalgi.com/wp-content/uploads/FODMAP-Diet-Chart-RGI.pdf
 * https://irritablebowelsyndrome.net/ibs-diet/
 
 # Disclaimer
