@@ -1515,13 +1515,6 @@
     "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
-    "id": "222",
-    "name": "Mange tout",
-    "fodmap": "high",
-    "category": "Vegetables and legumes",
-    "details": {"oligos":2,"fructose":0,"polyols":2,"lactose":0}
-  },
-  {
     "id": "223",
     "name": "Mango",
     "fodmap": "high",
