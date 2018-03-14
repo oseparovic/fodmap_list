@@ -398,7 +398,7 @@
   },
   {
     "id": "60",
-    "name": "Rutabaga",
+    "name": "Rutabaga/Swede",
     "fodmap": "low",
     "category": "Vegetables and legumes",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
@@ -1223,7 +1223,7 @@
   },
   {
     "id": "180",
-    "name": "Eggplant",
+    "name": "Eggplant/Aubergine",
     "fodmap": "low",
     "category": "Vegetables and legumes",
 	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
@@ -1494,7 +1494,7 @@
   },
   {
     "id": "219",
-    "name": "Lettuce (e.g. rocket, butter, iceberg, radicchio, red coral)",
+    "name": "Lettuce (e.g. rocket, butter, iceberg, radicchio, red coral, romaine)",
     "fodmap": "low",
     "category": "Vegetables and legumes",
     "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
@@ -2957,7 +2957,85 @@
     "name": "Cranberry, dried",
     "fodmap": "low",
     "category": "Fruit",
-	"qty":"1 tbsp",
-	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
-  }
+    "qty":"1 tbsp",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "426",
+    "name": "Cabbage, red",
+    "fodmap": "low",
+    "category": "Vegetables and legumes",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "427",
+    "name": "Cacao powder",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "428",
+    "name": "Cranberry Juice",
+    "fodmap": "low",
+    "category": "Drinks",
+    "qty":"250 ml",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+    "id": "429",
+    "name": "Dill, fresh",
+    "fodmap": "low",
+    "category": "Cooking ingredients, Herbs and Spices",
+    "details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+  },
+  {
+   "id": "430",
+   "name": "Avocado Oil",
+   "fodmap": "low",
+   "category": "Cooking ingredients, Herbs and Spices",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ },  
+ {
+   "id": "431",
+   "name": "Sardines, canned in oil",
+   "fodmap": "low",
+   "category": "Meat & Substitutes",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ }, 
+ {
+   "id": "432",
+   "name": "Sugar snap peas",
+   "fodmap": "high",
+   "category": "Vegetables and legumes",
+"details": {"oligos":0,"fructose":2,"polyols":0,"lactose":0}
+ },  
+ {
+   "id": "433",
+   "name": "Red onion",
+   "fodmap": "high",
+   "category": "Vegetables and legumes",
+"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+ },  
+ {
+   "id": "434",
+   "name": "Corn starch",
+   "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ },
+ {
+   "id": "435",
+   "name": "Teff flour",
+   "fodmap": "low",
+    "category": "Breads, Cereals, Grains and Pasta",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ },
+ {
+   "id": "436",
+   "name": "Chili powder",
+   "fodmap": "low",
+   "category": "Cooking ingredients, Herbs and Spices",
+"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
+ }
 ]
