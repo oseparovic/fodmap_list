@@ -497,16 +497,16 @@
   {
     "id": "74",
     "name": "Chayote / choko",
-    "fodmap": "high",
+    "fodmap": "low",
     "category": "Vegetables and legumes",
-	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "75",
     "name": "Cho Cho",
-    "fodmap": "high",
+    "fodmap": "low",
     "category": "Vegetables and legumes",
-	"details": {"oligos":2,"fructose":0,"polyols":0,"lactose":0}
+	"details": {"oligos":0,"fructose":0,"polyols":0,"lactose":0}
   },
   {
     "id": "76",
